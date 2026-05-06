@@ -225,6 +225,7 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 
 DOMAIN-SUFFIX,agentclientprotocol.com
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -7431,6 +7432,7 @@ DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
+DOMAIN-SUFFIX,supr.cl
 #end include:supercell
 #include:take-two
 #include:2kgames
@@ -11879,6 +11881,7 @@ DOMAIN-SUFFIX,atypi.org
 DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,globalsecurity.org
 DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,iccf.com
 DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,itu.int
 DOMAIN-SUFFIX,opte.org
@@ -19961,6 +19964,11 @@ DOMAIN-SUFFIX,tutamail.com
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tutanota.de
 #end include:tutanota
+#include:twilio
+DOMAIN-SUFFIX,twilio.com
+DOMAIN-SUFFIX,twilio.jp
+DOMAIN-SUFFIX,tytch.com
+#end include:twilio
 #include:vercel
 DOMAIN-SUFFIX,ai-sdk.dev
 DOMAIN-SUFFIX,err.sh
@@ -20049,6 +20057,8 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,auroraoss.com
 ## BiliPlus
 DOMAIN-SUFFIX,biliplus.com
+## Calibre
+DOMAIN-SUFFIX,calibre-ebook.com
 ## Canny (Customer Feedback Management)
 DOMAIN-SUFFIX,canny.io
 ## CataBoom

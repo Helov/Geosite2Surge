@@ -1313,6 +1313,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | tvdb | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tvdb |
 | tver | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tver |
 | twca | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/twca |
+| twilio | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/twilio |
 | twitch | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/twitch |
 | twitter | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/twitter |
 | typekit | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/typekit |
