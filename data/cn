@@ -751,6 +751,9 @@ DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com
+# 终末地-协议终端
+DOMAIN,end-api.shallow.ink
+DOMAIN,end.shallow.ink
 # 飞火游戏
 DOMAIN-SUFFIX,feihuo.com
 # 九九互动 粤ICP备19068416号
@@ -3725,6 +3728,8 @@ DOMAIN-SUFFIX,dmallcdn.com
 ## 微店
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,weidian.com
+## 货摊网
+DOMAIN-SUFFIX,huotan.net
 ## 聚美优品
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jumei.com
@@ -9333,13 +9338,12 @@ DOMAIN-SUFFIX,zuowenwang.net
 DOMAIN-SUFFIX,zysou.com    #苏ICP备2024112174号-1
 DOMAIN-SUFFIX,zztfly.com
 
+# 爱赞助 粤ICP备18040645号
+DOMAIN-SUFFIX,azz.net
+
 # 京ICP备12006877号-1
-DOMAIN-SUFFIX,fm3838.com
-DOMAIN-SUFFIX,larsonlimited.com
 DOMAIN-SUFFIX,runsheng.com
 DOMAIN-SUFFIX,vzuu.com
-DOMAIN-SUFFIX,zoom3g.com
-DOMAIN-SUFFIX,zoomyou.cn
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 DOMAIN-SUFFIX,kujiale.com

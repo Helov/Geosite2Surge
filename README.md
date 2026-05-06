@@ -284,6 +284,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | category-medicine-ru | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-medicine-ru |
 | category-mobile-repair | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-mobile-repair |
 | category-mooc-cn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-mooc-cn |
+| category-netdisk-!cn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-netdisk-!cn |
 | category-netdisk-cn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-netdisk-cn |
 | category-network-security-cn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-network-security-cn |
 | category-news-ir | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-news-ir |

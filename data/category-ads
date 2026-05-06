@@ -632,11 +632,12 @@ DOMAIN-SUFFIX,bingads.com
 #end include:bing
 #include:github
 #include:github-copilot
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 #end include:github-copilot
 #include:npmjs
 #end include:npmjs
 DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 #end include:github
 #include:microsoft-dev
 #end include:microsoft-dev

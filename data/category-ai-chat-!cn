@@ -63,6 +63,16 @@ DOMAIN-SUFFIX,themeforest.net
 #end include:envato
 #include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
+
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+DOMAIN,copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 #end include:github-copilot
 #include:google-deepmind
 # Google DeepMind
@@ -236,6 +246,7 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,spicywriter.com
 #end include:category-ai-!cn
