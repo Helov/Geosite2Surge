@@ -318,6 +318,20 @@ DOMAIN,api.carrottrack.app
 DOMAIN,api.dashly.app
 DOMAIN,api.dashlytrack.app
 #end include:carrotquest
+#include:category-food-cn @ads
+#include:bestore
+#end include:bestore
+#include:ddmaicai
+#end include:ddmaicai
+#include:lkcoffee
+#end include:lkcoffee
+#include:mcdonalds @cn
+#end include:mcdonalds
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
+#end include:category-food-cn
 #include:cctv @ads
 DOMAIN-SUFFIX,ad.cctv.com
 #end include:cctv
