@@ -6706,6 +6706,7 @@ DOMAIN-SUFFIX,hrtek.ru
 DOMAIN-SUFFIX,koddobra.ru
 DOMAIN-SUFFIX,lovina.app
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mediumquality.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,movika.com
@@ -6718,6 +6719,7 @@ DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-records.ru
 DOMAIN-SUFFIX,vk-stadium.ru
 DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.kz
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkclips.app
 DOMAIN-SUFFIX,vkcs.cloud
@@ -6725,6 +6727,7 @@ DOMAIN-SUFFIX,vkfest.ru
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkvideo.ru
+DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,yclients.com
 
 # IDN ccTLD
@@ -6946,6 +6949,10 @@ DOMAIN-SUFFIX,uma.media
 ## Viqeo
 DOMAIN-SUFFIX,viqeo.tv
 DOMAIN-SUFFIX,viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+DOMAIN-SUFFIX,vkcloud-static.kz
+DOMAIN-SUFFIX,vkcloud.kz
 
 ## VK Play
 DOMAIN-SUFFIX,vkplay-arena.ru
@@ -9276,14 +9283,8 @@ DOMAIN-SUFFIX,uwn.com
 DOMAIN-SUFFIX,wifiman.com
 #end include:ubiquiti
 #include:ucoz
-# ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
 
-#include:ucoz-ru
-DOMAIN-SUFFIX,scripts-for-ucoz.ru
-DOMAIN-SUFFIX,ucoz.ru
-DOMAIN-SUFFIX,ucozmedia.ru
-DOMAIN-SUFFIX,uguide.ru
-#end include:ucoz-ru
 DOMAIN-SUFFIX,ucoz.ae
 DOMAIN-SUFFIX,ucoz.club
 DOMAIN-SUFFIX,ucoz.co
@@ -9302,24 +9303,33 @@ DOMAIN-SUFFIX,ucoz.md
 DOMAIN-SUFFIX,ucoz.net
 DOMAIN-SUFFIX,ucoz.org
 DOMAIN-SUFFIX,ucoz.pl
+DOMAIN-SUFFIX,ucoz.ru
 DOMAIN-SUFFIX,ucoz.site
 DOMAIN-SUFFIX,ucoz.ua
+DOMAIN-SUFFIX,ukoz.ru
 
-# ucozmedia
-
+# uCozmedia
 DOMAIN-SUFFIX,ucozmedia.com
+DOMAIN-SUFFIX,ucozmedia.ru
 
-# ukit
+# uGuide
+DOMAIN-SUFFIX,uguide.ru
+DOMAIN-SUFFIX,uguide.su
 
+# uKit
 DOMAIN-SUFFIX,ukit.ai
 DOMAIN-SUFFIX,ukit.com
 DOMAIN-SUFFIX,ukit.group
 DOMAIN-SUFFIX,ukit.me
 
-# other
-
+# Other
 DOMAIN-SUFFIX,at.ua
+DOMAIN-SUFFIX,narod.ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
+DOMAIN-SUFFIX,ucozmail.com
 DOMAIN-SUFFIX,ucoztemplates.com
+DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,uweb.ru
 #end include:ucoz
 #include:verisign
 DOMAIN-SUFFIX,verisign.asia
