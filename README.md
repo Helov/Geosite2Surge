@@ -946,6 +946,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | nga | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nga |
 | nginx | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nginx |
 | ngrok | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/ngrok |
+| nicegram | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nicegram |
 | niconico | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/niconico |
 | nike | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nike |
 | nikkan-gendai | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nikkan-gendai |

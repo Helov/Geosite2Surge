@@ -3941,6 +3941,12 @@ DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,nbabot.net
 #end include:messenger
+#include:nicegram
+DOMAIN-SUFFIX,nicegram.app
+DOMAIN-SUFFIX,nicegram.cloud
+# Ads
+DOMAIN-SUFFIX,adsgram.ai
+#end include:nicegram
 #include:protonmail
 DOMAIN-SUFFIX,pm.me
 DOMAIN-SUFFIX,proton.me
