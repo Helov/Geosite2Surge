@@ -716,6 +716,9 @@ DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,sentry.music.163.com
 #end include:netease
+#include:nicegram @ads
+DOMAIN-SUFFIX,adsgram.ai
+#end include:nicegram
 #include:ookla-speedtest @ads
 DOMAIN-WILDCARD,speed.*.ad.*.prod.hosts.ooklaserver.net
 #end include:ookla-speedtest
