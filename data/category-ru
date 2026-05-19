@@ -1602,6 +1602,7 @@ DOMAIN,report.ap.yandex-net.ru
 # Bank & Finance & Insurance & Securities
 #include:category-bank-ru
 # Alfa Bank
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
@@ -2009,6 +2010,8 @@ DOMAIN-SUFFIX,nbki.ru
 ## Currency and stock exchanges
 DOMAIN-SUFFIX,moex.com    #Moscow Stock Exchange
 DOMAIN-SUFFIX,spvb.ru    #Saint-Petersburg Stock Exchange
+## Card & Document delivery
+DOMAIN-SUFFIX,efin.ru
 ## Financial marketplace
 DOMAIN-SUFFIX,banki.ru
 DOMAIN-SUFFIX,finuslugi.ru
@@ -2099,6 +2102,7 @@ DOMAIN-SUFFIX,meteoinfo.ru    #Hydrometeorological Center of Russia
 DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and security services for public web resources
 DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
 DOMAIN-SUFFIX,pochta.ru    #Russian post
+DOMAIN-SUFFIX,ponyexpress.ru    #Courier delivery service
 DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
