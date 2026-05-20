@@ -315,6 +315,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | category-social-media-cn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-social-media-cn |
 | category-social-media-ir | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-social-media-ir |
 | category-speedtest | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-speedtest |
+| category-stun | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-stun |
 | category-tech-ir | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-tech-ir |
 | category-tech-media | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-tech-media |
 | category-tm | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/category-tm |
