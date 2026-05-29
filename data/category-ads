@@ -699,6 +699,16 @@ DOMAIN,api.mindbox.ru
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.popmechanic.ru
 #end include:mindbox
+#include:mozilla @ads
+#include:firefox
+#end include:firefox
+#include:mdn
+#end include:mdn
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+#end include:mozilla
 #include:mts-ru @ads
 DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
