@@ -1343,6 +1343,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | unionpay | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/unionpay |
 | unity | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/unity |
 | unitychina | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/unitychina |
+| uoliv | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/uoliv |
 | upai | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/upai |
 | usersdrive | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/usersdrive |
 | uu-chat | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/uu-chat |
