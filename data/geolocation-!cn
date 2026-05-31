@@ -19310,6 +19310,8 @@ DOMAIN-SUFFIX,epicbrowser.com
 #include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+
+DOMAIN,mozilla-ohttp.fastly-edge.com
 #end include:firefox
 #include:torproject
 DOMAIN-SUFFIX,torproject.org
@@ -19792,6 +19794,7 @@ DOMAIN-SUFFIX,ondigitalocean.com
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 
+DOMAIN-SUFFIX,disq.us
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,disqusservice.com
@@ -29594,6 +29597,8 @@ DOMAIN-SUFFIX,motorolasolutions.com
 #include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+
+DOMAIN,mozilla-ohttp.fastly-edge.com
 #end include:firefox
 #include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
