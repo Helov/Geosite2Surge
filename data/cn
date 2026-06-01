@@ -1905,9 +1905,13 @@ DOMAIN-SUFFIX,ad.cctv.com
 #include:chinanews
 DOMAIN-SUFFIX,chinanews.com
 DOMAIN-SUFFIX,chinanews.com.cn
+DOMAIN-SUFFIX,chinaqw.com
 DOMAIN-SUFFIX,cns.com.cn
+DOMAIN-SUFFIX,cnsimg.net
 DOMAIN-SUFFIX,ecns.cn
 DOMAIN-SUFFIX,inewsweek.cn
+DOMAIN-SUFFIX,jwview.com
+DOMAIN-SUFFIX,xinmeng.info
 #end include:chinanews
 #include:ifanr
 DOMAIN-SUFFIX,coolbuy.com
@@ -2256,6 +2260,7 @@ DOMAIN-SUFFIX,nbd.com.cn
 DOMAIN-SUFFIX,neweekly.com.cn
 # 新华社
 DOMAIN-SUFFIX,news.cn
+DOMAIN-SUFFIX,newsimg.cn
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
 # 维科网
@@ -3906,6 +3911,7 @@ DOMAIN-SUFFIX,mala.cn    #麻辣社区
 DOMAIN-SUFFIX,mcbbs.net    #MCBBS论坛
 DOMAIN-SUFFIX,pcbeta.com    #远景论坛
 DOMAIN-SUFFIX,right.com.cn    #恩山论坛
+DOMAIN-SUFFIX,tianya.net    #天涯社区
 DOMAIN-SUFFIX,touying.com    #投影网
 DOMAIN-SUFFIX,txrjy.com    #通信人家园
 DOMAIN-SUFFIX,uiwow.com    #魔兽有爱论坛
@@ -3988,6 +3994,8 @@ DOMAIN-SUFFIX,piyao.org.cn
 DOMAIN-SUFFIX,redcross.org.cn
 ## 中国殡葬网
 DOMAIN-SUFFIX,zgbznet.com.cn
+## 中国记协网
+DOMAIN-SUFFIX,zgjx.cn
 
 # Public transportation
 ## 中国国际航空
