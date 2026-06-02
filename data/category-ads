@@ -23,10 +23,10 @@ DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
 #end include:adobe
 #include:alibaba @ads
-#include:9game
-#end include:9game
 #include:alibabacloud
 #end include:alibabacloud
+#include:aligames
+#end include:aligames
 #include:aliyun
 DOMAIN-SUFFIX,acjs.aliyun.com
 DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
@@ -57,6 +57,8 @@ DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 #end include:eleme
+#include:shuqi
+#end include:shuqi
 #include:teambition
 #end include:teambition
 #include:uc
