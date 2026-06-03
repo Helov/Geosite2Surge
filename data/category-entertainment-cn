@@ -393,6 +393,8 @@ DOMAIN-SUFFIX,biligame.net
 #end include:bilibili-game
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,maoer.com
+DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
@@ -845,7 +847,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com

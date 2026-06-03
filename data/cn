@@ -854,6 +854,8 @@ DOMAIN-SUFFIX,biligame.net
 #end include:bilibili-game
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,maoer.com
+DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,animetamashi.cn
@@ -1306,7 +1308,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -1580,18 +1581,6 @@ DOMAIN-SUFFIX,517lppz.com
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lppzimg.com
 #end include:bestore
-#include:ddmaicai
-# 叮咚买菜 上海壹佰米网络科技有限公司
-DOMAIN-SUFFIX,100.me
-DOMAIN-SUFFIX,ddcorp.net
-DOMAIN-SUFFIX,ddfresh.net
-DOMAIN-SUFFIX,ddimg.mobi
-DOMAIN-SUFFIX,ddmaicai.net
-DOMAIN-SUFFIX,ddmc.mobi
-DOMAIN-SUFFIX,dduser.mobi
-DOMAIN-SUFFIX,ddxq.mobi
-DOMAIN-SUFFIX,imaicai.mobi
-#end include:ddmaicai
 #include:lkcoffee
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
@@ -1606,7 +1595,16 @@ DOMAIN-SUFFIX,mcdchina.net
 DOMAIN-SUFFIX,mcdonalds.com.cn
 #end include:mcdonalds
 
+# 星巴克中国
+#include:starbucks @cn
+DOMAIN-SUFFIX,starbucks.com.cn
+#end include:starbucks
+
+# 三只松鼠
 DOMAIN-SUFFIX,3songshu.com
+
+# 百草味
+DOMAIN-SUFFIX,vipbcw.com
 
 # 海底捞
 DOMAIN-SUFFIX,haidilao.com
@@ -1663,6 +1661,39 @@ DOMAIN-SUFFIX,dicos.com.cn
 
 # 陈克明食品
 DOMAIN-SUFFIX,kemen.cn
+
+# 中粮集团
+DOMAIN-SUFFIX,chinatea.com.cn
+DOMAIN-SUFFIX,cofco.com
+DOMAIN-SUFFIX,greatwallwine.com.cn
+
+# 北大荒
+DOMAIN-SUFFIX,chinabdh.com
+DOMAIN-SUFFIX,hacl.cn
+
+# 光明乳业
+DOMAIN-SUFFIX,4008117117.com
+DOMAIN-SUFFIX,brightdairy.com
+DOMAIN-SUFFIX,brighticecream.com
+DOMAIN-SUFFIX,chinacow.com
+
+# 伊利
+DOMAIN-SUFFIX,yili.com
+
+# 蒙牛
+DOMAIN-SUFFIX,mengniu.com.cn
+
+# 君乐宝
+DOMAIN-SUFFIX,junlebaoruye.com
+
+# 益海嘉里金龙鱼
+DOMAIN-SUFFIX,yihaikerry.net.cn
+
+# 鲁花
+DOMAIN-SUFFIX,luhua.cn
+
+# 双汇集团
+DOMAIN-SUFFIX,shuanghui.net
 
 # Tracking
 DOMAIN-SUFFIX,logger.qmai.cn
@@ -1884,6 +1915,7 @@ DOMAIN-SUFFIX,36krcnd.com
 #include:cctv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctv4g.com
 DOMAIN-SUFFIX,cctvlib.cn
 DOMAIN-SUFFIX,cctvlib.com.cn
 DOMAIN-SUFFIX,cctvlibrary.cn
@@ -3387,6 +3419,10 @@ DOMAIN-SUFFIX,suu-fun.com
 DOMAIN-SUFFIX,rainyun.com
 ## 深圳市狐蒂云网络科技有限公司 粤ICP备2025387186号-1
 DOMAIN-SUFFIX,szhdy.com
+## 中企动力
+DOMAIN-SUFFIX,300.cn
+DOMAIN-SUFFIX,thefastfile.com
+DOMAIN-SUFFIX,thefastimg.com
 
 # E-commerce
 #include:58tongcheng
@@ -3427,6 +3463,7 @@ DOMAIN-SUFFIX,jxksw.net
 DOMAIN-SUFFIX,roomeet.cn
 DOMAIN-SUFFIX,xgo-img.com.cn
 DOMAIN-SUFFIX,xinchong.com
+DOMAIN-SUFFIX,xueche.com
 
 # 转转
 DOMAIN-SUFFIX,zhuancorp.com
@@ -3435,6 +3472,10 @@ DOMAIN-SUFFIX,zhuanspirit.cn
 DOMAIN-SUFFIX,zhuanspirit.com
 DOMAIN-SUFFIX,zhuanstatic.com
 DOMAIN-SUFFIX,zhuanzhuan.com
+
+# 考试宝
+DOMAIN-SUFFIX,kaoshibao.com
+DOMAIN-SUFFIX,zaixiankaoshi.com
 #end include:58tongcheng
 #include:ctrip @-!cn
 DOMAIN-SUFFIX,c-ctrip.com
@@ -3863,6 +3904,10 @@ DOMAIN-SUFFIX,homeinns.com
 ## 多点新鲜
 DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
+## 大润发
+DOMAIN-SUFFIX,feiniu.com
+DOMAIN-SUFFIX,fn-mart.com
+DOMAIN-SUFFIX,rt-mart.com.cn
 ## 微店
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,weidian.com
@@ -3885,6 +3930,9 @@ DOMAIN-SUFFIX,jumei.com
 ## 孔夫子旧书网
 DOMAIN-SUFFIX,kongfz.com
 DOMAIN-SUFFIX,kfzimg.com
+## 银泰百货
+DOMAIN-SUFFIX,intime.com.cn
+DOMAIN-SUFFIX,linkheer.com
 ## 慢慢买
 DOMAIN-SUFFIX,manmanbuy.com
 ## 美物清单
@@ -5722,7 +5770,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -5842,6 +5889,7 @@ DOMAIN-SUFFIX,yowhale.com
 DOMAIN-SUFFIX,yunos-inc.com
 DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yushanfang.com
+DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,zuodao.com
 DOMAIN-SUFFIX,aliexpress.com
 DOMAIN-SUFFIX,aliexpress-media.com
@@ -7755,6 +7803,32 @@ DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 #end include:tcl
 #include:tencent @-!cn
+#include:kugou
+DOMAIN-SUFFIX,fanxingliveshow.com
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,ktv.com
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kugouaudio.com
+DOMAIN-SUFFIX,kugouipv6.com
+DOMAIN-SUFFIX,kugoukid.com
+DOMAIN-SUFFIX,kugouliveshow.com
+DOMAIN-SUFFIX,kugouringtone.com
+DOMAIN-SUFFIX,kugousenior.com
+DOMAIN-SUFFIX,kugoustore.com
+DOMAIN-SUFFIX,kugouvoice.com
+DOMAIN-SUFFIX,kugouyouth.com
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
+#include:kuwo
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
+#end include:kuwo
 #include:qcloud
 #include:discuz
 DOMAIN-SUFFIX,comsenz.com
@@ -8161,6 +8235,13 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
 #end include:tencent-games
+#include:ximalaya
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+#end include:ximalaya
 #include:yuewen
 #include:webnovel
 #end include:webnovel

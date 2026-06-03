@@ -325,12 +325,12 @@ DOMAIN,api.dashlytrack.app
 #include:category-food-cn @ads
 #include:bestore
 #end include:bestore
-#include:ddmaicai
-#end include:ddmaicai
 #include:lkcoffee
 #end include:lkcoffee
 #include:mcdonalds @cn
 #end include:mcdonalds
+#include:starbucks @cn
+#end include:starbucks
 DOMAIN-SUFFIX,logger.qmai.cn
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
 DOMAIN-SUFFIX,trackingprd.hwwt8.com
@@ -875,6 +875,13 @@ DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 #end include:tcl
 #include:tencent @ads
+#include:kugou
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
+#include:kuwo
+#end include:kuwo
 #include:qcloud
 #include:discuz
 #end include:discuz
@@ -890,6 +897,11 @@ DOMAIN-SUFFIX,badjs.weixinbridge.com
 #end include:tencent-dev
 #include:tencent-games
 #end include:tencent-games
+#include:ximalaya
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+#end include:ximalaya
 #include:yuewen
 #include:webnovel
 #end include:webnovel
