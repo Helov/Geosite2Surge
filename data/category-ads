@@ -398,10 +398,6 @@ DOMAIN-SUFFIX,wmbd.gamersky.com
 #end include:golang
 #include:google-deepmind
 #end include:google-deepmind
-#include:google-gemini
-#include:google-deepmind
-#end include:google-deepmind
-#end include:google-gemini
 #include:google-play
 #end include:google-play
 #include:google-registry

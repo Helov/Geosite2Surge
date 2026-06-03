@@ -75,6 +75,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | aliyun | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/aliyun |
 | aliyun-drive | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/aliyun-drive |
 | aljazeera | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/aljazeera |
+| alphabet | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/alphabet |
 | amap | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amap |
 | amazon | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amazon |
 | amazontrust | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amazontrust |
