@@ -560,6 +560,7 @@ DOMAIN-SUFFIX,yingxiong.com
 #end include:herogame
 #include:kurogames
 DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,kurogames.net
 
 # Wuthering Waves
 DOMAIN-SUFFIX,aki-game.com
@@ -9815,4 +9816,7 @@ DOMAIN-SUFFIX,wanji.net.cn
 
 # 广州市雅望互联网服务有限公司
 DOMAIN-SUFFIX,gzyowin.com
+
+# 杭州烨彬科技有限公司 浙ICP备2024084590号
+DOMAIN-SUFFIX,yebinnet.com
 #end include:geolocation-cn
