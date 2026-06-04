@@ -525,11 +525,6 @@ DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
 #end include:kuaishou
-#include:kugou @ads
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
-#end include:kugou
 #include:le @ads
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ark.letv.com
@@ -873,13 +868,6 @@ DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 #end include:tcl
 #include:tencent @ads
-#include:kugou
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
-#end include:kugou
-#include:kuwo
-#end include:kuwo
 #include:qcloud
 #include:discuz
 #end include:discuz
@@ -895,11 +883,27 @@ DOMAIN-SUFFIX,badjs.weixinbridge.com
 #end include:tencent-dev
 #include:tencent-games
 #end include:tencent-games
+#include:tencent-tme
+#include:kugou
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
+#include:kuwo
+#end include:kuwo
 #include:ximalaya
 DOMAIN-SUFFIX,adbehavior.ximalaya.com
 DOMAIN-SUFFIX,adse.wsa.ximalaya.com
 DOMAIN-SUFFIX,adse.ximalaya.com
 #end include:ximalaya
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+#end include:tencent-tme
 #include:yuewen
 #include:webnovel
 #end include:webnovel
@@ -907,7 +911,6 @@ DOMAIN-SUFFIX,adse.ximalaya.com
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
-DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -920,7 +923,6 @@ DOMAIN-SUFFIX,adslvfile.qq.com
 DOMAIN-SUFFIX,adslvseed.qq.com
 DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstestview.qq.com
 DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
@@ -938,7 +940,6 @@ DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
-DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
@@ -948,14 +949,10 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
-DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
-DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
@@ -1030,11 +1027,6 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 #end include:xiaomi
-#include:ximalaya @ads
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
-#end include:ximalaya
 #include:yahoo @ads
 #include:flickr
 #end include:flickr

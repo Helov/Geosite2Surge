@@ -1269,6 +1269,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | tencent | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tencent |
 | tencent-dev | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tencent-dev |
 | tencent-games | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tencent-games |
+| tencent-tme | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tencent-tme |
 | tendcloud | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/tendcloud |
 | terabox | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/terabox |
 | termux | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/termux |
