@@ -43,6 +43,8 @@ DOMAIN-SUFFIX,winlinebet.ru
 #include:avito
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
+
+DOMAIN,stats.avito.ru
 #end include:avito
 #include:ozon
 DOMAIN-SUFFIX,ewisdom.us.kg
@@ -1800,6 +1802,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
