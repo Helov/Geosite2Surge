@@ -162,6 +162,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
@@ -7093,6 +7094,11 @@ DOMAIN-SUFFIX,zenlesszonezero.com
 # ads/tracking
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 #end include:hoyoverse
+#include:humblebundle
+DOMAIN-SUFFIX,humblebundle.com
+
+DOMAIN,hb.imgix.net
+#end include:humblebundle
 # Dead include:illusion
 #include:itchio
 DOMAIN-SUFFIX,itch.io
@@ -7767,7 +7773,6 @@ DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,game-repack.site
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,minecraft.wiki

@@ -676,6 +676,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | huggingface | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/huggingface |
 | hujiang | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hujiang |
 | hulu | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hulu |
+| humblebundle | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/humblebundle |
 | hunantv | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hunantv |
 | huobi | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/huobi |
 | hupu | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hupu |
