@@ -646,6 +646,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | hikvision | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hikvision |
 | hinet | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hinet |
 | hinet-eca | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hinet-eca |
+| hisense | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hisense |
 | hitun | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hitun |
 | hkbn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hkbn |
 | hkedcity | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/hkedcity |
