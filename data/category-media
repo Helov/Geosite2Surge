@@ -1224,6 +1224,15 @@ DOMAIN-SUFFIX,newsmax.com
 DOMAIN-SUFFIX,newsmax.in
 DOMAIN-SUFFIX,newsmaxtv.com
 #end include:newsmax
+#include:nhk
+# https://en.wikipedia.org/wiki/NHK#External_links
+# https://nic.nhk/
+
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp
+#end include:nhk
 #include:nikkan-gendai
 DOMAIN-SUFFIX,gendai.net
 DOMAIN-SUFFIX,nikkan-gendai.com

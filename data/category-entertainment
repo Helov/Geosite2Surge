@@ -372,10 +372,6 @@ DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,reachthefinals.com
 #end include:embark
-#include:eneba
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
-#end include:eneba
 #include:epicgames
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
@@ -435,6 +431,12 @@ DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,warthunder.com
 DOMAIN-SUFFIX,wtmobile.com
 #end include:gaijin
+#include:gamesplanet
+# Gamesplanet/GameTap (Metaboli)
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
+DOMAIN-SUFFIX,gpstatic.com
+#end include:gamesplanet
 #include:garena
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
@@ -543,7 +545,9 @@ DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.net
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 #end include:nexon
 #include:nikke
 DOMAIN-SUFFIX,nikke-de.com
@@ -1176,6 +1180,7 @@ DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,game-repack.site
 DOMAIN-SUFFIX,joinsquad.com
