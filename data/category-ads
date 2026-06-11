@@ -968,7 +968,14 @@ DOMAIN-SUFFIX,tdsdk.cpatrk.net
 DOMAIN-SUFFIX,ads-twitter.com
 #end include:twitter
 #include:unity @ads
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,api2.amplitude.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 #end include:unity
 #include:unitychina @ads
