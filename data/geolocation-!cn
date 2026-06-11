@@ -7433,7 +7433,11 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
+
+# Dota 2
+DOMAIN-SUFFIX,dota2.com
 
 # edgecast
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
@@ -9355,6 +9359,8 @@ DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,hydrogenaud.io
+DOMAIN-SUFFIX,livejournal.com
+DOMAIN-SUFFIX,livejournal.net
 DOMAIN-SUFFIX,mewe.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,pincong.rocks
@@ -30885,6 +30891,20 @@ DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
 DOMAIN-SUFFIX,wisekey.com.hk
 #end include:wisekey
+#include:xtom
+DOMAIN-SUFFIX,v.ps
+DOMAIN-SUFFIX,vps.hosting
+DOMAIN-SUFFIX,xtom.au
+DOMAIN-SUFFIX,xtom.com
+DOMAIN-SUFFIX,xtom.de
+DOMAIN-SUFFIX,xtom.ee
+DOMAIN-SUFFIX,xtom.hk
+DOMAIN-SUFFIX,xtom.jp
+DOMAIN-SUFFIX,xtom.nl
+DOMAIN-SUFFIX,xtom.sg
+DOMAIN-SUFFIX,xtom.social
+DOMAIN-SUFFIX,xtom.us
+#end include:xtom
 #include:yahoo
 #include:flickr
 # All .flickr domains

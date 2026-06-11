@@ -1459,6 +1459,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | xingkongwuxianmedia | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xingkongwuxianmedia |
 | xingrz | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xingrz |
 | xnxx | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xnxx |
+| xtom | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xtom |
 | xueersi | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xueersi |
 | xueqiu | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xueqiu |
 | xunlei | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/xunlei |
