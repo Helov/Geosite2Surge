@@ -528,6 +528,9 @@ DOMAIN-SUFFIX,e.kuaishou.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,wlog.kuaishou.com
 #end include:kuaishou
+#include:kurogames @ads
+DOMAIN-SUFFIX,kurogames-ads.com
+#end include:kurogames
 #include:le @ads
 DOMAIN-SUFFIX,apple.www.letv.com
 DOMAIN-SUFFIX,ark.letv.com
