@@ -8895,6 +8895,11 @@ DOMAIN-SUFFIX,razerzone.jp
 DOMAIN-SUFFIX,respawnbyrazer.com
 DOMAIN-SUFFIX,rzr.to
 #end include:razer
+#include:regru
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru
+#end include:regru
 #include:rostelecom
 #include:wink
 DOMAIN-SUFFIX,restream-media.net

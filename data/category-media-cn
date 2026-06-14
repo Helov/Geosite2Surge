@@ -260,8 +260,12 @@ DOMAIN-SUFFIX,caixin.com
 # 参考消息
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
+# 电脑商情在线
+DOMAIN-SUFFIX,cbinews.com
 # 改革网
 DOMAIN-SUFFIX,cfgw.net.cn
+# 中国家电网
+DOMAIN-SUFFIX,cheaa.com
 # AET 电子技术应用
 DOMAIN-SUFFIX,chinaaet.com
 # 天极网
@@ -358,6 +362,9 @@ DOMAIN-SUFFIX,ths123.com
 DOMAIN-SUFFIX,thsi.cn
 # 和讯
 DOMAIN-SUFFIX,hexun.com
+# 华声在线/湖南在线
+DOMAIN-SUFFIX,hnol.net
+DOMAIN-SUFFIX,voc.com.cn
 # 河南广播电视台/大象网
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,hndt.com    #河南广播网
@@ -385,6 +392,8 @@ DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,nfpeople.com
 # 艾瑞咨询
 DOMAIN-SUFFIX,iresearch.cn
+# 科技视讯
+DOMAIN-SUFFIX,istv.cn
 # IT168
 DOMAIN-SUFFIX,it168.com
 # 华尔街见闻
@@ -522,6 +531,9 @@ DOMAIN-SUFFIX,thepaper.cn
 # 潮新闻/浙江日报
 DOMAIN-SUFFIX,8531.cn
 DOMAIN-SUFFIX,tidenews.com.cn
+# 动脉网
+DOMAIN-SUFFIX,vbdata.cn
+DOMAIN-SUFFIX,vcbeat.top
 # 人人都是产品经理
 DOMAIN-SUFFIX,woshipm.com
 # 新华日报
