@@ -71,10 +71,15 @@ DOMAIN-SUFFIX,ifanrx.com
 DOMAIN-SUFFIX,minapp.com
 #end include:ifanr
 #include:jiemian
-# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
-
+# 界面财联社
+DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chinastarmarket.cn
+DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,jingpt.com
+DOMAIN-SUFFIX,lanjinger.com
+DOMAIN-SUFFIX,moer.cn
 #end include:jiemian
 #include:landian
 # 蓝点网
@@ -252,9 +257,6 @@ DOMAIN-SUFFIX,bbtnews.com.cn
 DOMAIN-SUFFIX,bianews.com
 # 财经网
 DOMAIN-SUFFIX,caijing.com.cn
-# 财联社
-DOMAIN-SUFFIX,cailianpress.com
-DOMAIN-SUFFIX,cls.cn
 # 财新网
 DOMAIN-SUFFIX,caixin.com
 # 参考消息
@@ -338,8 +340,10 @@ DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
-# 光明网
-DOMAIN-SUFFIX,gmw.com
+# 光明日报
+DOMAIN-SUFFIX,gmdaily.cn
+DOMAIN-SUFFIX,gmw.cn
+DOMAIN-SUFFIX,guangmingdaily.cn
 # 观察者网
 DOMAIN-SUFFIX,guancha.cn
 # 硅谷网
@@ -440,6 +444,8 @@ DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,mnw.cn
 # 快科技
 DOMAIN-SUFFIX,mydrivers.com
+# ZAKER新闻
+DOMAIN-SUFFIX,myzaker.com
 # 南岳新闻网
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社

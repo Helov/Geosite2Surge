@@ -965,6 +965,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | nginx | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nginx |
 | ngrok | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/ngrok |
 | nhk | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nhk |
+| nic-ru | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nic-ru |
 | nicegram | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nicegram |
 | niconico | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/niconico |
 | nike | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nike |

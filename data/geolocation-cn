@@ -726,6 +726,11 @@ DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,zhuoyou.com
 #end include:yokaverse
 
+# 三七互娱
+DOMAIN-SUFFIX,37.com
+DOMAIN-SUFFIX,37.com.cn
+DOMAIN-SUFFIX,37wan.net
+DOMAIN-SUFFIX,37wanimg.com
 # 北京奇客创想科技有限公司
 DOMAIN-SUFFIX,7k7k.com
 # 刀锋盒子 皖B2-20190103-4
@@ -734,9 +739,10 @@ DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com
-# 畅游
+# 畅游 (sohu)
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
 # 终末地-协议终端
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -1548,8 +1554,9 @@ DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,vgtime.com
 #end include:vgtime
 
-## 17173网
+## 17173网 (sohu)
 DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
 ## 18183网
 DOMAIN-SUFFIX,18183.com
 ## 3DM游戏网
@@ -1578,6 +1585,8 @@ DOMAIN-SUFFIX,ign.com.cn
 DOMAIN-SUFFIX,nadianshi.com
 ## 游戏日报
 DOMAIN-SUFFIX,news.yxrb.net
+## 超级玩家游戏网
+DOMAIN-SUFFIX,sgamer.com
 ## 手谈姬
 DOMAIN-SUFFIX,shoutanjjj.com
 ## 游戏机实用技术
@@ -1999,10 +2008,15 @@ DOMAIN-SUFFIX,ifanrx.com
 DOMAIN-SUFFIX,minapp.com
 #end include:ifanr
 #include:jiemian
-# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
-
+# 界面财联社
+DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,chinastarmarket.cn
+DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,jiemian.com
 DOMAIN-SUFFIX,jiemian.com.cn
+DOMAIN-SUFFIX,jingpt.com
+DOMAIN-SUFFIX,lanjinger.com
+DOMAIN-SUFFIX,moer.cn
 #end include:jiemian
 #include:landian
 # 蓝点网
@@ -2180,9 +2194,6 @@ DOMAIN-SUFFIX,bbtnews.com.cn
 DOMAIN-SUFFIX,bianews.com
 # 财经网
 DOMAIN-SUFFIX,caijing.com.cn
-# 财联社
-DOMAIN-SUFFIX,cailianpress.com
-DOMAIN-SUFFIX,cls.cn
 # 财新网
 DOMAIN-SUFFIX,caixin.com
 # 参考消息
@@ -2266,8 +2277,10 @@ DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
-# 光明网
-DOMAIN-SUFFIX,gmw.com
+# 光明日报
+DOMAIN-SUFFIX,gmdaily.cn
+DOMAIN-SUFFIX,gmw.cn
+DOMAIN-SUFFIX,guangmingdaily.cn
 # 观察者网
 DOMAIN-SUFFIX,guancha.cn
 # 硅谷网
@@ -2368,6 +2381,8 @@ DOMAIN-SUFFIX,miercn.com
 DOMAIN-SUFFIX,mnw.cn
 # 快科技
 DOMAIN-SUFFIX,mydrivers.com
+# ZAKER新闻
+DOMAIN-SUFFIX,myzaker.com
 # 南岳新闻网
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社
@@ -8990,7 +9005,6 @@ DOMAIN-SUFFIX,360jq.com
 DOMAIN-SUFFIX,360zhyx.com
 DOMAIN-SUFFIX,365azw.com
 DOMAIN-SUFFIX,365dmp.com
-DOMAIN-SUFFIX,37.com
 DOMAIN-SUFFIX,3733.com
 DOMAIN-SUFFIX,3d66.com
 DOMAIN-SUFFIX,3elife.net
@@ -9532,7 +9546,6 @@ DOMAIN-SUFFIX,muzhiwan.com
 DOMAIN-SUFFIX,mydown.com
 DOMAIN-SUFFIX,myshow360.net
 DOMAIN-SUFFIX,myyx618.com
-DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,naixuecha.com
 DOMAIN-SUFFIX,netbian.com
 DOMAIN-SUFFIX,netzz.net    #鲁ICP备2022014279号-3
@@ -9615,7 +9628,6 @@ DOMAIN-SUFFIX,scoregg.com
 DOMAIN-SUFFIX,scratch5.com    #粤ICP备19139956号-5
 DOMAIN-SUFFIX,sczsxx.com
 DOMAIN-SUFFIX,senlinjimore.com    #鲁ICP备20001333号 森林集
-DOMAIN-SUFFIX,sgamer.com
 DOMAIN-SUFFIX,shang360.com
 DOMAIN-SUFFIX,shangc.net
 DOMAIN-SUFFIX,shanghairc.com
