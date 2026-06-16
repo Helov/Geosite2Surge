@@ -703,8 +703,12 @@ DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,g3.letv.com
 #end include:le
 #include:lizhi
+DOMAIN-SUFFIX,gzlzfm.com
 DOMAIN-SUFFIX,lizhi.fm
 DOMAIN-SUFFIX,lizhifm.com
+DOMAIN-SUFFIX,lizhiinc.com
+DOMAIN-SUFFIX,lz310.com
+DOMAIN-SUFFIX,lzpipi.com
 #end include:lizhi
 #include:pptv
 DOMAIN-SUFFIX,pplive.cn
@@ -801,6 +805,15 @@ DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,sqreader.com
 #end include:shuqi
+#include:taihe
+# 太合音乐集团
+DOMAIN-SUFFIX,91q.com
+DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,showstart.com
+DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,taihemusic.cn
+DOMAIN-SUFFIX,th-music.com
+#end include:taihe
 #include:taomee
 DOMAIN-SUFFIX,61.com
 DOMAIN-SUFFIX,taomee.com
@@ -845,13 +858,17 @@ DOMAIN-SUFFIX,adse.wsa.ximalaya.com
 DOMAIN-SUFFIX,adse.ximalaya.com
 #end include:ximalaya
 
-DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,tencentmusic.com
 
 DOMAIN-SUFFIX,kg.qq.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,y.qq.com
+
+# 懒人听书
+DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,mting.info
+DOMAIN-SUFFIX,wting.info
 
 # 爱听卓乐
 DOMAIN-SUFFIX,97ting.com
@@ -933,7 +950,6 @@ DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,readnovel.com
 DOMAIN-SUFFIX,rongshuxia.com
 DOMAIN-SUFFIX,tingbook.com
-DOMAIN-SUFFIX,wting.info
 DOMAIN-SUFFIX,xs.cn
 DOMAIN-SUFFIX,xs8.cn
 DOMAIN-SUFFIX,xxsy.net

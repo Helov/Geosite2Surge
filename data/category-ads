@@ -831,16 +831,6 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn
 DOMAIN-SUFFIX,snapads.com
 #end include:snap
 #include:sohu @ads
-#include:sogou
-DOMAIN-SUFFIX,inte.sogou.com
-DOMAIN-SUFFIX,inte.sogoucdn.com
-DOMAIN-SUFFIX,lu.sogou.com
-DOMAIN-SUFFIX,lu.sogoucdn.com
-DOMAIN-SUFFIX,pb.i.sogou.com
-DOMAIN-SUFFIX,theta.sogoucdn.com
-DOMAIN-SUFFIX,uranus.sogou.com
-DOMAIN-SUFFIX,wuliao.epro.sogou.com
-#end include:sogou
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
@@ -878,6 +868,16 @@ DOMAIN-SUFFIX,testads.api.my7v.com
 #include:dnspod
 #end include:dnspod
 #end include:qcloud
+#include:sogou
+DOMAIN-SUFFIX,inte.sogou.com
+DOMAIN-SUFFIX,inte.sogoucdn.com
+DOMAIN-SUFFIX,lu.sogou.com
+DOMAIN-SUFFIX,lu.sogoucdn.com
+DOMAIN-SUFFIX,pb.i.sogou.com
+DOMAIN-SUFFIX,theta.sogoucdn.com
+DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,wuliao.epro.sogou.com
+#end include:sogou
 #include:tencent-dev
 #include:cnb
 #end include:cnb
