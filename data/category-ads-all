@@ -786,6 +786,7 @@ DOMAIN-SUFFIX,s.union.360.cn
 DOMAIN,sentry.iptv.rt.ru
 #end include:rostelecom
 #include:samsung @ads
+DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 #end include:samsung
 #include:sber @ads
