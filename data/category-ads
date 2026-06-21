@@ -714,6 +714,7 @@ DOMAIN-SUFFIX,a.mts.ru
 DOMAIN-SUFFIX,obs.mts.ru
 #end include:mts-ru
 #include:netease @ads
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,admusicpic.music.126.net
 DOMAIN-SUFFIX,ads.music.126.net
