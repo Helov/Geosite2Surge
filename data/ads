@@ -269,6 +269,7 @@ DOMAIN-SUFFIX,wmbd.gamersky.com
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,admob-cn.com

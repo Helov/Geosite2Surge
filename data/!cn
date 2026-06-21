@@ -120,7 +120,6 @@ DOMAIN,alt5-mtalk.google.com
 DOMAIN,alt6-mtalk.google.com
 DOMAIN,mtalk.google.com
 DOMAIN-SUFFIX,dbankcloud.ru
-DOMAIN-SUFFIX,dt.dbankcloud.ru
 DOMAIN-SUFFIX,huaweicloud-dns.net
 DOMAIN-SUFFIX,huaweicloud-dns.org
 DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com
@@ -299,7 +298,6 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
-DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
@@ -335,7 +333,6 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,vivoglobal.com
 DOMAIN-SUFFIX,webnovel.com
 DOMAIN-SUFFIX,rednote.com

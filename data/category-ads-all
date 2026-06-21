@@ -384,6 +384,9 @@ DOMAIN-SUFFIX,ja1.gamersky.com
 DOMAIN-SUFFIX,ja2.gamersky.com
 DOMAIN-SUFFIX,wmbd.gamersky.com
 #end include:gamersky
+#include:gog @ads
+DOMAIN-SUFFIX,insights-collector.gog.com
+#end include:gog
 #include:google @ads
 #include:android
 #end include:android
