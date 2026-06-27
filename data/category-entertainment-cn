@@ -393,10 +393,6 @@ DOMAIN-SUFFIX,aixifan.com
 # Ads/tracking
 DOMAIN,apilog-web.acfun.cn
 #end include:acfun
-#include:acplay
-DOMAIN-SUFFIX,acplay.net
-DOMAIN-SUFFIX,dandanplay.com
-#end include:acplay
 #include:bilibili @-!cn
 #include:bilibili-cdn
 DOMAIN-SUFFIX,bilicdn1.com
