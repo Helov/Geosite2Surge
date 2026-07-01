@@ -2223,6 +2223,7 @@ DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bankermak.ru
 DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,bm-bank.ru
 DOMAIN-SUFFIX,bspb.ru
 DOMAIN-SUFFIX,commerzbank.ru
@@ -3964,6 +3965,8 @@ DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp
+
+DOMAIN-SUFFIX,botim.me
 #end include:category-communication
 
 # Cryptocurrency
@@ -4220,6 +4223,7 @@ DOMAIN-SUFFIX,hashflow.com
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,invity.io
+DOMAIN-SUFFIX,litecoin.org
 DOMAIN-SUFFIX,maple.finance
 DOMAIN-SUFFIX,megaeth.com
 DOMAIN-SUFFIX,merkl.xyz
@@ -10191,6 +10195,7 @@ DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,slashdot.org
 DOMAIN-SUFFIX,technews.tw
 DOMAIN-SUFFIX,techradar.com
+DOMAIN-SUFFIX,techspot.com
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,tomsguide.com
 
@@ -15438,6 +15443,9 @@ DOMAIN-SUFFIX,hongkongdoll.tv
 DOMAIN-SUFFIX,hongkongdollvideo.org
 DOMAIN-SUFFIX,honnaka.jp
 DOMAIN-SUFFIX,hoodamateurs.com
+DOMAIN-SUFFIX,hornet.com
+DOMAIN-SUFFIX,hornetapp.com
+DOMAIN-SUFFIX,hornetx.com
 DOMAIN-SUFFIX,hornybitches.org
 DOMAIN-SUFFIX,hornybutt.com
 DOMAIN-SUFFIX,hornychat.net
@@ -20221,8 +20229,13 @@ DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,bitballoon.com
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlifydns.com
 DOMAIN-SUFFIX,netlifystatus.com
+DOMAIN-SUFFIX,netlifyusercontent.com
+DOMAIN-SUFFIX,ntl.fyi
 
+DOMAIN,acd89244c803f7181.awsglobalaccelerator.com
+DOMAIN,afa7f374f51cc8991.awsglobalaccelerator.com
 DOMAIN,d33wubrfki0l68.cloudfront.net
 #end include:netlify
 #include:notion
