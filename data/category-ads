@@ -735,8 +735,9 @@ DOMAIN-SUFFIX,adsgram.ai
 DOMAIN-WILDCARD,speed.*.ad.*.prod.hosts.ooklaserver.net
 #end include:ookla-speedtest
 #include:openai @ads
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
 #end include:openai
 #include:ozon @ads
 DOMAIN,ad.ozone.ru

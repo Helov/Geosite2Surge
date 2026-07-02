@@ -462,8 +462,9 @@ DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,ogury.com
 DOMAIN-SUFFIX,presage.io
 DOMAIN-WILDCARD,speed.*.ad.*.prod.hosts.ooklaserver.net
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,openxadexchange.com
 DOMAIN-SUFFIX,openxcdn.net
