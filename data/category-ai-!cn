@@ -221,6 +221,10 @@ DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
 
+# Copilot
+DOMAIN-SUFFIX,copilot.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
@@ -230,7 +234,6 @@ DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
