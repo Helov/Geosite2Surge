@@ -4274,6 +4274,15 @@ DOMAIN-SUFFIX,avito.st
 
 DOMAIN,stats.avito.ru
 #end include:avito
+#include:flowwow
+DOMAIN-SUFFIX,flowwow-images.com
+DOMAIN-SUFFIX,flowwow.com
+#end include:flowwow
+#include:funpay
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com
+#end include:funpay
 #include:ozon
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o3.ru
@@ -21381,6 +21390,7 @@ DOMAIN-SUFFIX,tilda.ru
 DOMAIN-SUFFIX,tilda.ws
 DOMAIN-SUFFIX,tildaapi.com
 DOMAIN-SUFFIX,tildacdn.com
+DOMAIN-SUFFIX,tildacdn.net
 #end include:tilda
 #include:unity
 DOMAIN-SUFFIX,unity.com
