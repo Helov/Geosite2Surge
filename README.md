@@ -340,6 +340,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | cern | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/cern |
 | certinomis | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/certinomis |
 | certum | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/certum |
+| changyou | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/changyou |
 | chaoxing | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/chaoxing |
 | chatango | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/chatango |
 | chatwhores | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/chatwhores |

@@ -837,6 +837,8 @@ DOMAIN-SUFFIX,wbclick.mobile.sina.cn
 DOMAIN-SUFFIX,snapads.com
 #end include:snap
 #include:sohu @ads
+#include:changyou
+#end include:changyou
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn
