@@ -160,8 +160,12 @@ DOMAIN-SUFFIX,serving-sys.com
 #include:swift
 #end include:swift
 #end include:apple-dev
+#include:apple-music
+#end include:apple-music
 #include:apple-pki
 #end include:apple-pki
+#include:apple-podcasts
+#end include:apple-podcasts
 #include:apple-tvplus
 #end include:apple-tvplus
 #include:apple-update
