@@ -149,6 +149,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | beget | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/beget |
 | beisen | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/beisen |
 | bestbuy | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/bestbuy |
+| bestchange | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/bestchange |
 | bestore | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/bestore |
 | bestv | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/bestv |
 | betboom | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/betboom |
