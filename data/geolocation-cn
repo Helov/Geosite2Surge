@@ -333,11 +333,12 @@ DOMAIN-SUFFIX,bouffalolab.com
 DOMAIN-SUFFIX,cxmt.com
 
 # 乐鑫信息科技
-#include:espressif
+#include:espressif @-!cn
 DOMAIN-SUFFIX,esp8266.cn
 DOMAIN-SUFFIX,esp8266.com.cn
 DOMAIN-SUFFIX,espressif.cn
 DOMAIN-SUFFIX,espressif.com.cn
+#end include:espressif
 
 # 华秋电子
 DOMAIN-SUFFIX,eda.cn
