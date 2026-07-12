@@ -6417,7 +6417,7 @@ DOMAIN-SUFFIX,eufycn.com
 DOMAIN-SUFFIX,eufymake.com.cn
 DOMAIN-SUFFIX,soundcore.com.cn
 #end include:anker
-#include:aux @-!cn
+#include:auxgroup @-!cn
 DOMAIN-SUFFIX,aux-home.com
 DOMAIN-SUFFIX,auxauto.com.cn
 DOMAIN-SUFFIX,auxcss.com
@@ -6442,7 +6442,7 @@ DOMAIN-SUFFIX,nbyzfeyy.com
 DOMAIN-SUFFIX,sanxing.com
 DOMAIN-SUFFIX,shuyifuwu.com.cn
 DOMAIN-SUFFIX,solarcloud.top
-#end include:aux
+#end include:auxgroup
 #include:baidu
 #include:zuoyebang
 DOMAIN-SUFFIX,zuoyebang.cc
