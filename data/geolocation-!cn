@@ -1871,7 +1871,6 @@ DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
-DOMAIN-SUFFIX,alfabank.oavdo.amc
 
 # BBR
 DOMAIN-SUFFIX,bbr.ru
@@ -7140,9 +7139,6 @@ DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
 #end include:itchio
 #include:konami
-# All .konami domains
-DOMAIN-SUFFIX,konami
-
 DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kiwi.jp
@@ -21668,11 +21664,7 @@ DOMAIN,lm.licenses.adobe.com
 DOMAIN,lmlicenses.wip4.adobe.com
 DOMAIN,na1r.services.adobe.com
 DOMAIN,ood.opsource.net
-DOMAIN,practivate.adobe
 DOMAIN,practivate.adobe.com
-DOMAIN,practivate.adobe.ipp
-DOMAIN,practivate.adobe.newoa
-DOMAIN,practivate.adobe.ntp
 DOMAIN,wip.adobe.com
 DOMAIN,wip1.adobe.com
 DOMAIN,wip2.adobe.com
@@ -22519,9 +22511,6 @@ DOMAIN-SUFFIX,gle
 
 # All .gmail domains
 DOMAIN-SUFFIX,gmail
-
-# All .goo domains
-DOMAIN-SUFFIX,goo
 
 # All .goog domains
 DOMAIN-SUFFIX,goog
@@ -27572,9 +27561,6 @@ DOMAIN-SUFFIX,clearlinux.org
 DOMAIN-SUFFIX,ospray.net
 DOMAIN-SUFFIX,ospray.org
 #end include:intel-dev
-
-# All .intel domains
-DOMAIN-SUFFIX,intel
 
 DOMAIN-SUFFIX,intel.ac
 DOMAIN-SUFFIX,intel.ae
