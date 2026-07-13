@@ -789,6 +789,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | kernel | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/kernel |
 | keybase | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/keybase |
 | khanacademy | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/khanacademy |
+| kick | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/kick |
 | kindle | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/kindle |
 | kindle4rss | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/kindle4rss |
 | kingkonglive | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/kingkonglive |
