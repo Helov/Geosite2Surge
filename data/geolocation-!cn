@@ -228,6 +228,7 @@ DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
 
 # Copilot
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -1485,9 +1486,6 @@ DOMAIN-SUFFIX,teslamotors.com
 DOMAIN-SUFFIX,teslamotors.com.cn
 DOMAIN-SUFFIX,teslazta.net
 DOMAIN-SUFFIX,ts.la
-
-DOMAIN,tesla-cdn.thron.cn
-DOMAIN,tesla-cdn.thron.com
 #end include:tesla
 #include:volvo
 # All .volvo domains
@@ -8651,6 +8649,7 @@ DOMAIN,agb9r0ad.qllfkl.com
 #end include:likee
 #include:manhuagui
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com
 #end include:manhuagui
 #include:metacritic
 DOMAIN-SUFFIX,metacritic.com
@@ -29206,6 +29205,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
@@ -29348,6 +29348,7 @@ DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 
 # Copilot
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -30916,6 +30917,7 @@ DOMAIN-SUFFIX,so-net.net.tw
 #end include:sony
 #include:spacex
 DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com
 #end include:spacex
 #include:spaceship
 #include:spacemail
