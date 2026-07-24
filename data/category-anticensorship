@@ -76,6 +76,11 @@ DOMAIN-SUFFIX,opengw.net
 DOMAIN-SUFFIX,vpngate.jp
 DOMAIN-SUFFIX,vpngate.net
 #end include:vpngate
+#include:remnawave
+DOMAIN-SUFFIX,docs.rw
+DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,try.rw
+#end include:remnawave
 
 DOMAIN,trojan-gfw.github.io
 DOMAIN,xtls.github.io

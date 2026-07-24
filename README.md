@@ -1136,6 +1136,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | redotpay | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/redotpay |
 | redtube | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/redtube |
 | regru | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/regru |
+| remnawave | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/remnawave |
 | renren | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/renren |
 | reurl | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/reurl |
 | reuters | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/reuters |
