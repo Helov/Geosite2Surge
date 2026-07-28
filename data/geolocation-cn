@@ -4857,6 +4857,7 @@ DOMAIN-SUFFIX,openjudge.cn
 DOMAIN-SUFFIX,rqnoj.cn
 DOMAIN-SUFFIX,uoj.ac
 DOMAIN-SUFFIX,vijos.org
+DOMAIN-SUFFIX,xmoj.tech
 #end include:category-olympiad-in-informatics
 #include:category-scholar-cn
 # This list contains scholarly domains that have access point in China Mainland.

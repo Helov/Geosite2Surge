@@ -961,6 +961,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | naver | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/naver |
 | nbcuniversal | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nbcuniversal |
 | neowin | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/neowin |
+| netcraze | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/netcraze |
 | netcup | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/netcup |
 | netease | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/netease |
 | netflav | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/netflav |

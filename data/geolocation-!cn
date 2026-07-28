@@ -1985,15 +1985,16 @@ DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sberbank-tele.com
+DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
 DOMAIN-SUFFIX,sberfactoring.ru
-DOMAIN-SUFFIX,sberindex.ru
-DOMAIN-SUFFIX,sberbankaktivno.ru
-DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberindex.ru
 DOMAIN-SUFFIX,sberleasing.ru
 DOMAIN-SUFFIX,sberlogistics.ru
 DOMAIN-SUFFIX,sbermegamarket.ru
@@ -6661,6 +6662,7 @@ DOMAIN-SUFFIX,bowlroll.net
 # CDNvideo is a leading CDN provider in Russia and the CIS
 DOMAIN-SUFFIX,cdnvideo.ru
 DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,kinescopecdn.net
 DOMAIN-SUFFIX,trbcdn.net
 
 # Information about films and series
@@ -6688,6 +6690,7 @@ DOMAIN-SUFFIX,24h.tv
 DOMAIN-SUFFIX,amediateka.ru
 DOMAIN-SUFFIX,beeline.tv
 DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,ivicdn.tv
 DOMAIN-SUFFIX,premier.one
 DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
