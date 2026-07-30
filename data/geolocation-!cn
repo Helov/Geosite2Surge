@@ -4294,12 +4294,28 @@ DOMAIN-SUFFIX,zapper.fi
 # E-commerce
 #include:category-ecommerce
 #include:category-ecommerce-ru
+#include:autoru
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert
+#end include:autoru
 #include:avito
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 
 DOMAIN,stats.avito.ru
 #end include:avito
+#include:cian
+DOMAIN-SUFFIX,cian.ru
+DOMAIN-SUFFIX,cian.site
+DOMAIN-SUFFIX,ciangroup.ru
+DOMAIN-SUFFIX,dmir.ru
+DOMAIN-SUFFIX,poudobnee.com
+DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
+DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
+#end include:cian
 #include:flowwow
 DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,flowwow.com
@@ -4497,6 +4513,10 @@ DOMAIN,marketplace-sentry.wb.ru
 DOMAIN,sentry.wb.ru
 DOMAIN,web-analytics.wildberries.ru
 #end include:wildberries
+
+# drom
+DOMAIN-SUFFIX,drom.ru
+DOMAIN-SUFFIX,rdrom.ru
 #end include:category-ecommerce-ru
 
 #include:adidas
@@ -8051,6 +8071,10 @@ DOMAIN-SUFFIX,wwr-stardom.com
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 #end include:catchplay
+#include:chesscom
+DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chesscomfiles.com
+#end include:chesscom
 #include:copymanga
 DOMAIN-SUFFIX,2025copy.com
 DOMAIN-SUFFIX,copy-manga.com
@@ -19812,6 +19836,7 @@ DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 #end include:firefox
 #include:torproject
 DOMAIN-SUFFIX,torproject.org
@@ -28445,13 +28470,16 @@ DOMAIN-SUFFIX,algoritmika.org
 DOMAIN-SUFFIX,code-class.ru
 DOMAIN-SUFFIX,gb.ru
 DOMAIN-SUFFIX,lerna.ru
+DOMAIN-SUFFIX,o-uchi.ru
 DOMAIN-SUFFIX,skbx.pro    #Probably a CDN
 DOMAIN-SUFFIX,skillbox.pro
 DOMAIN-SUFFIX,skillbox.ru
 DOMAIN-SUFFIX,skillfactory.ru
 DOMAIN-SUFFIX,tetrika-school.ru
 DOMAIN-SUFFIX,uchi.ru
+DOMAIN-SUFFIX,uchilk.ru
 DOMAIN-SUFFIX,umschool.net
+DOMAIN-SUFFIX,xn----otbzjdu.xn--p1ai
 DOMAIN-SUFFIX,yaklass.ru
 
 ## ESforce
@@ -28474,8 +28502,8 @@ DOMAIN-SUFFIX,icq.at
 DOMAIN-SUFFIX,icq.biz
 DOMAIN-SUFFIX,icq.com
 DOMAIN-SUFFIX,icq.de
-DOMAIN-SUFFIX,icq.fr
 DOMAIN-SUFFIX,icq.eu
+DOMAIN-SUFFIX,icq.fr
 DOMAIN-SUFFIX,icq.im
 DOMAIN-SUFFIX,icq.lt
 DOMAIN-SUFFIX,icq.mobi
@@ -30181,6 +30209,7 @@ DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 #end include:firefox
 #include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
@@ -31577,6 +31606,7 @@ DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,meteum.ai
 DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,naydex.net
+DOMAIN-SUFFIX,realtyverif.ru
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,sourcecraft.dev

@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
 #end include:firefox
 #include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
