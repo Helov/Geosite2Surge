@@ -883,6 +883,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | mailru-group | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/mailru-group |
 | mainichi | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/mainichi |
 | manhuagui | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/manhuagui |
+| manhuaren | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/manhuaren |
 | manorama | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/manorama |
 | manoto | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/manoto |
 | manus | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/manus |
