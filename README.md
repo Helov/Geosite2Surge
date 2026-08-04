@@ -1235,6 +1235,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | sogou | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sogou |
 | sohu | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sohu |
 | sokolov | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sokolov |
+| sonemic | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sonemic |
 | sony | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sony |
 | sonypictures | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sonypictures |
 | soundcloud | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/soundcloud |
