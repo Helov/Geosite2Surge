@@ -240,6 +240,10 @@ DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 
+# DeepWiki
+DOMAIN-SUFFIX,deepwiki.com
+DOMAIN-SUFFIX,deepwiki.org
+
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
@@ -4315,14 +4319,17 @@ DOMAIN-SUFFIX,ocourier.ru
 DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-credit.ru
 DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
 DOMAIN-SUFFIX,ozon.com.kz
 DOMAIN-SUFFIX,ozon.dev
 DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.global
 DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.market
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozon.tech
 DOMAIN-SUFFIX,ozon.tm
@@ -6701,6 +6708,7 @@ DOMAIN-SUFFIX,promodj.com    #Electronic music and DJ community platform
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
+DOMAIN-SUFFIX,rutube.sport
 #end include:rutube
 #end include:category-entertainment-ru
 #include:category-games-!cn
@@ -20188,6 +20196,11 @@ DOMAIN-SUFFIX,feedly.com
 #include:figma
 DOMAIN-SUFFIX,figma.com
 #end include:figma
+#include:flyio
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,flyio.net
+#end include:flyio
 #include:gofundme
 DOMAIN-SUFFIX,gofundme.com
 #end include:gofundme
@@ -25205,6 +25218,9 @@ DOMAIN,init.gc-lb.apple.com.akadns.net
 DOMAIN,init.gc.apple.com
 DOMAIN,km.support.apple.com
 DOMAIN,maps.apple.com
+DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tj-pod2-smp-device.apple.com
+DOMAIN,tj-pod3-smp-device.apple.com
 DOMAIN,www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$ @cn
@@ -25367,7 +25383,6 @@ DOMAIN,swdist.apple.com.akadns.net
 DOMAIN,swscan-cdn.apple.com.akadns.net
 DOMAIN,swscan.apple.com
 DOMAIN,sylvan.apple.com
-DOMAIN,tj-pod1-smp-device.apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com.akadns.net
 DOMAIN,updates.cdn-apple.com

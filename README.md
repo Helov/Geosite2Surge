@@ -568,6 +568,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | flowus | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/flowus |
 | flowwow | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/flowwow |
 | flutter | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/flutter |
+| flyio | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/flyio |
 | fonbet | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/fonbet |
 | fontawesome | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/fontawesome |
 | fontexplorer | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/fontexplorer |
