@@ -292,7 +292,6 @@ DOMAIN-SUFFIX,vscenevideo.com    #京ICP备16045432号-1 北京维境视讯信�
 #end include:lark
 #include:tiktok
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
@@ -898,6 +897,10 @@ DOMAIN-SUFFIX,jimeng.com
 DOMAIN-SUFFIX,vlabimg.com
 DOMAIN-SUFFIX,vlabstatic.com
 DOMAIN-SUFFIX,vlabvod.com
+
+# CapCut
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutcdn-us.com
 
 # 今日头条
 DOMAIN-SUFFIX,toutiao.com

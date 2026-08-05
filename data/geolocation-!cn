@@ -387,19 +387,30 @@ DOMAIN-SUFFIX,log.rw
 DOMAIN-SUFFIX,try.rw
 #end include:remnawave
 
+DOMAIN,matsuridayo.github.io
+DOMAIN,metacubex.github.io
+DOMAIN,rabbit-hole-1.gitbook.io
+DOMAIN,throneproj.github.io
 DOMAIN,trojan-gfw.github.io
 DOMAIN,xtls.github.io
 
+DOMAIN-SUFFIX,2dust.link
 DOMAIN-SUFFIX,ahmia.fi
 DOMAIN-SUFFIX,akasha.world
+DOMAIN-SUFFIX,amnezia.org
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,bypasscensorship.org
 DOMAIN-SUFFIX,censorship.ai
+DOMAIN-SUFFIX,clashmi.app
+DOMAIN-SUFFIX,clashparty.org
+DOMAIN-SUFFIX,clashverge.dev
 DOMAIN-SUFFIX,clashyun.com
 DOMAIN-SUFFIX,dat.foundation
 DOMAIN-SUFFIX,democracy.earth
 DOMAIN-SUFFIX,eff.org
 DOMAIN-SUFFIX,ffprofile.com
+DOMAIN-SUFFIX,flclashx.app
+DOMAIN-SUFFIX,flowvy.io
 DOMAIN-SUFFIX,freenetproject.org
 DOMAIN-SUFFIX,fteproxy.org
 DOMAIN-SUFFIX,geti2p.net
@@ -409,21 +420,29 @@ DOMAIN-SUFFIX,guardianproject.info
 DOMAIN-SUFFIX,happ.info
 DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,hiddify.com
+DOMAIN-SUFFIX,incy.cc
 DOMAIN-SUFFIX,jitsi.org
+DOMAIN-SUFFIX,karing.app
 DOMAIN-SUFFIX,lokinet.org
 DOMAIN-SUFFIX,metacubex.one
+DOMAIN-SUFFIX,nsloon.com
 DOMAIN-SUFFIX,ntc.party
+DOMAIN-SUFFIX,onexray.com
 DOMAIN-SUFFIX,onionshare.org
 DOMAIN-SUFFIX,ooni.org
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,privacytools.io
+DOMAIN-SUFFIX,prizrak.app
 DOMAIN-SUFFIX,proxifier.com
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,psiphon3.com
 DOMAIN-SUFFIX,sagernet.org
+DOMAIN-SUFFIX,shadowlaunch.com
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,sing-box.app
 DOMAIN-SUFFIX,sspanel.net
+DOMAIN-SUFFIX,stash.wiki
+DOMAIN-SUFFIX,stash.ws
 DOMAIN-SUFFIX,stunnel.org
 DOMAIN-SUFFIX,telex.cc
 DOMAIN-SUFFIX,tribler.org
@@ -433,9 +452,11 @@ DOMAIN-SUFFIX,twister.net.co
 DOMAIN-SUFFIX,uproxy.org
 DOMAIN-SUFFIX,vpnrouter.homes
 DOMAIN-SUFFIX,vuvuzela.io
+DOMAIN-SUFFIX,wgtunnel.com
 DOMAIN-SUFFIX,whonix.org
 DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wireguard.com
+DOMAIN-SUFFIX,wiresock.net
 DOMAIN-SUFFIX,zeronet.io
 #end include:category-anticensorship
 #include:category-proxy-tunnels
@@ -464,10 +485,6 @@ DOMAIN-SUFFIX,ts.net
 #end include:category-proxy-tunnels
 
 # Art & Design & Photography
-#include:artstation
-DOMAIN-SUFFIX,artstation.com
-DOMAIN-SUFFIX,artstationmedia.com
-#end include:artstation
 #include:dribbble
 DOMAIN-SUFFIX,drbl.in
 DOMAIN-SUFFIX,dribbble.com
@@ -2694,9 +2711,6 @@ DOMAIN-SUFFIX,travelexmoneycard.com
 # World Currency Card
 DOMAIN-SUFFIX,bidvestbank.co.za
 DOMAIN-SUFFIX,worldcurrencycard.co.za
-
-DOMAIN,nab.demdex.net
-DOMAIN,nationalaustraliaban.tt.omtrdc.net
 #end include:mastercard
 #include:paypal
 DOMAIN-SUFFIX,account-paypal.info
@@ -3285,6 +3299,7 @@ DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.pay
 DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareapps.com
@@ -3333,9 +3348,6 @@ DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
-
-# Video.js CDN
-DOMAIN-SUFFIX,zencdn.net
 #end include:fastly
 #include:imgix
 DOMAIN-SUFFIX,imgix.com
@@ -3652,9 +3664,6 @@ DOMAIN-SUFFIX,secom.co.jp
 DOMAIN-SUFFIX,secomtrust.net
 
 # Sub brand
-
-DOMAIN-SUFFIX,cybertrust.co.jp
-DOMAIN-SUFFIX,cybertrust.ne.jp
 DOMAIN-SUFFIX,managedpki.ne.jp
 #end include:secom
 #include:sectigo
@@ -4959,7 +4968,6 @@ DOMAIN-SUFFIX,ebaycareers.com
 DOMAIN-SUFFIX,ebaycbt.co.kr
 DOMAIN-SUFFIX,ebaycdn.net
 DOMAIN-SUFFIX,ebaychina.net
-DOMAIN-SUFFIX,ebayclassifiedsgroup.com
 DOMAIN-SUFFIX,ebayclassifieds.cn
 DOMAIN-SUFFIX,ebayclassifieds.com
 DOMAIN-SUFFIX,ebayclassifieds.com.cn
@@ -5122,8 +5130,8 @@ DOMAIN-SUFFIX,theebayshop.com
 DOMAIN-SUFFIX,theopportunityproject.org
 DOMAIN-SUFFIX,towerauction.com
 DOMAIN-SUFFIX,vendu.com
-DOMAIN-SUFFIX,weareebay.com
 DOMAIN-SUFFIX,watch-ebay.org
+DOMAIN-SUFFIX,weareebay.com
 DOMAIN-SUFFIX,wwwdecide.com
 DOMAIN-SUFFIX,wwwebay.com
 DOMAIN-SUFFIX,wwwebay.net
@@ -6804,10 +6812,8 @@ DOMAIN-SUFFIX,bejewled-stars.com
 DOMAIN-SUFFIX,bejeweledstars.com
 DOMAIN-SUFFIX,capitalgames.com
 DOMAIN-SUFFIX,chillingo.com
-DOMAIN-SUFFIX,commandandconquer.com
 DOMAIN-SUFFIX,conquerwithcharacter.com
 DOMAIN-SUFFIX,crysis.jp
-DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,dawngatechronicles.com
 DOMAIN-SUFFIX,dicela.com
 DOMAIN-SUFFIX,dicela.net
@@ -6847,15 +6853,11 @@ DOMAIN-SUFFIX,playapex.com
 DOMAIN-SUFFIX,pogo.com
 DOMAIN-SUFFIX,pogobeta.com
 DOMAIN-SUFFIX,popcap.com
-DOMAIN-SUFFIX,projectapex.com
-DOMAIN-SUFFIX,pvzheroes.com
-DOMAIN-SUFFIX,spearhead.kr
 DOMAIN-SUFFIX,speedhunters.com
 DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,ssx3.com
 DOMAIN-SUFFIX,starwarsbattlefront.com
 DOMAIN-SUFFIX,starwarsbattlefront2.com
-DOMAIN-SUFFIX,tiberiumalliances.com
 DOMAIN-SUFFIX,tiburon.com
 DOMAIN-SUFFIX,tnt-ea.com
 DOMAIN-SUFFIX,ultimaforever.com
@@ -7021,8 +7023,12 @@ DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,reachthefinals.com
 #end include:embark
 #include:epicgames
-DOMAIN-SUFFIX,3lateral.com
+#include:artstation
 DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
+#end include:artstation
+
+DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,capturingreality.com
 DOMAIN-SUFFIX,cubicmotion.com
 DOMAIN-SUFFIX,battlebreakers.com
@@ -7987,10 +7993,12 @@ DOMAIN-SUFFIX,archiveofourown.com
 DOMAIN-SUFFIX,archiveofourown.net
 #end include:archiveofourown
 #include:attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attwatchtv.com
-DOMAIN-SUFFIX,directv.com
 DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,nettyinternet.com
 #end include:attwatchtv
@@ -8109,10 +8117,12 @@ DOMAIN-SUFFIX,discoveryplus.com
 
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,abcnews.com
 DOMAIN-SUFFIX,edgedatg.com
 #end include:abc
 #include:bamtech
 DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamtech.net
 DOMAIN-SUFFIX,dmed.technology
 #end include:bamtech
 #include:espn
@@ -8138,6 +8148,56 @@ DOMAIN-SUFFIX,hsprepack.akamaized.net
 
 DOMAIN-WILDCARD,hses*.akamaized.net
 #end include:hotstar
+#include:hulu
+DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,callhulu.com
+DOMAIN-SUFFIX,findyourlimits.com
+DOMAIN-SUFFIX,freehulu.com
+DOMAIN-SUFFIX,hooloo.tv
+DOMAIN-SUFFIX,hoolu.com
+DOMAIN-SUFFIX,hoolu.tv
+DOMAIN-SUFFIX,hu1u.com
+DOMAIN-SUFFIX,huloo.cc
+DOMAIN-SUFFIX,huloo.tv
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,huluaction.com
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluapp.com
+DOMAIN-SUFFIX,huluasks.com
+DOMAIN-SUFFIX,hulucall.com
+DOMAIN-SUFFIX,hulufree.com
+DOMAIN-SUFFIX,hulugans.com
+DOMAIN-SUFFIX,hulugermany.com
+DOMAIN-SUFFIX,hulugo.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,huluinstantmessenger.com
+DOMAIN-SUFFIX,huluitaly.com
+DOMAIN-SUFFIX,hulunet.com
+DOMAIN-SUFFIX,hulunetwork.com
+DOMAIN-SUFFIX,huluplus.com
+DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,hulupurchase.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulurussia.com
+DOMAIN-SUFFIX,huluspain.com
+DOMAIN-SUFFIX,hulusports.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,hulutv.com
+DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,joinmaidez.com
+DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,myhulu.com
+DOMAIN-SUFFIX,originalhulu.com
+DOMAIN-SUFFIX,payhulu.com
+DOMAIN-SUFFIX,registerhulu.com
+DOMAIN-SUFFIX,thehulubraintrust.com
+DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN,hulu.playback.edge.bamgrid.com
+#end include:hulu
 #include:marvel
 DOMAIN-SUFFIX,marvel.com
 DOMAIN-SUFFIX,marvel10thanniversary.com
@@ -8205,15 +8265,31 @@ DOMAIN-SUFFIX,disney.ru
 DOMAIN-SUFFIX,disney.se
 DOMAIN-SUFFIX,disney.sg
 
+# https://thewaltdisneycompany.com/about/
+DOMAIN-SUFFIX,disneyanimation.com
+DOMAIN-SUFFIX,fxnetwork.com
+DOMAIN-SUFFIX,fxnetworks.com
+DOMAIN-SUFFIX,lucasfilm.com
+DOMAIN-SUFFIX,pixar.com
+DOMAIN-SUFFIX,searchlightpictures.com
+DOMAIN-SUFFIX,thewaltdisneycompany.com
+DOMAIN-SUFFIX,waltdisneystudios.com
+
+DOMAIN-SUFFIX,disneylandparis.com
+DOMAIN-SUFFIX,hongkongdisneyland.com
+DOMAIN-SUFFIX,shanghaidisneyresort.com
+DOMAIN-SUFFIX,tokyodisneyresort.jp
+
 # Others
+DOMAIN-SUFFIX,20thcenturystudios.com
 DOMAIN-SUFFIX,20thcenturystudios.com.au
 DOMAIN-SUFFIX,20thcenturystudios.com.br
 DOMAIN-SUFFIX,20thcenturystudios.jp
 DOMAIN-SUFFIX,adventuresbydisney.com
 DOMAIN-SUFFIX,babble.com
 DOMAIN-SUFFIX,babyzone.com
-DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,beautyandthebeastmusical.co.uk
+DOMAIN-SUFFIX,detpress.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,disney-asia.com
 DOMAIN-SUFFIX,disney-discount.com
@@ -8221,6 +8297,7 @@ DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com
 DOMAIN-SUFFIX,disney-studio.com
 DOMAIN-SUFFIX,disney-studio.net
+DOMAIN-SUFFIX,disneyaccount.com
 DOMAIN-SUFFIX,disneyadsales.com
 DOMAIN-SUFFIX,disneyarena.com
 DOMAIN-SUFFIX,disneyaulani.com
@@ -8257,17 +8334,19 @@ DOMAIN-SUFFIX,disneynow.com
 DOMAIN-SUFFIX,disneypeoplesurveys.com
 DOMAIN-SUFFIX,disneyplus.bn5x.net
 DOMAIN-SUFFIX,disneyplus.com
-DOMAIN-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net
+DOMAIN-SUFFIX,disneyprivacycenter.com
 DOMAIN-SUFFIX,disneyredirects.com
 DOMAIN-SUFFIX,disneysrivieraresort.com
 DOMAIN-SUFFIX,disneystore.com
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,disneysubscription.com
+DOMAIN-SUFFIX,disneytermsofuse.com
 DOMAIN-SUFFIX,disneytickets.co.uk
 DOMAIN-SUFFIX,disneyturkiye.com.tr
 DOMAIN-SUFFIX,disneytvajobs.com
 DOMAIN-SUFFIX,disneyworld-go.com
 DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,freeform.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,mickey.tv
@@ -8287,6 +8366,8 @@ DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,watchdisneyfe.com
+
+DOMAIN,disneyplus.com.ssl.sc.omtrdc.net
 
 # tracking
 DOMAIN,disney.my.sentry.io
@@ -8417,56 +8498,6 @@ DOMAIN-SUFFIX,hbo.map.fastly.net
 DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
 DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
 #end include:hbo
-#include:hulu
-DOMAIN-SUFFIX,112263.com
-DOMAIN-SUFFIX,callhulu.com
-DOMAIN-SUFFIX,findyourlimits.com
-DOMAIN-SUFFIX,freehulu.com
-DOMAIN-SUFFIX,hooloo.tv
-DOMAIN-SUFFIX,hoolu.com
-DOMAIN-SUFFIX,hoolu.tv
-DOMAIN-SUFFIX,hu1u.com
-DOMAIN-SUFFIX,huloo.cc
-DOMAIN-SUFFIX,huloo.tv
-DOMAIN-SUFFIX,hulu.com
-DOMAIN-SUFFIX,hulu.jp
-DOMAIN-SUFFIX,hulu.tv
-DOMAIN-SUFFIX,hulu.us
-DOMAIN-SUFFIX,huluaction.com
-DOMAIN-SUFFIX,huluad.com
-DOMAIN-SUFFIX,huluapp.com
-DOMAIN-SUFFIX,huluasks.com
-DOMAIN-SUFFIX,hulucall.com
-DOMAIN-SUFFIX,hulufree.com
-DOMAIN-SUFFIX,hulugans.com
-DOMAIN-SUFFIX,hulugermany.com
-DOMAIN-SUFFIX,hulugo.com
-DOMAIN-SUFFIX,huluim.com
-DOMAIN-SUFFIX,huluinstantmessenger.com
-DOMAIN-SUFFIX,huluitaly.com
-DOMAIN-SUFFIX,hulunet.com
-DOMAIN-SUFFIX,hulunetwork.com
-DOMAIN-SUFFIX,huluplus.com
-DOMAIN-SUFFIX,hulupremium.com
-DOMAIN-SUFFIX,hulupurchase.com
-DOMAIN-SUFFIX,huluqa.com
-DOMAIN-SUFFIX,hulurussia.com
-DOMAIN-SUFFIX,huluspain.com
-DOMAIN-SUFFIX,hulusports.com
-DOMAIN-SUFFIX,hulustream.com
-DOMAIN-SUFFIX,huluteam.com
-DOMAIN-SUFFIX,hulutv.com
-DOMAIN-SUFFIX,huluusa.com
-DOMAIN-SUFFIX,joinmaidez.com
-DOMAIN-SUFFIX,mushymush.tv
-DOMAIN-SUFFIX,myhulu.com
-DOMAIN-SUFFIX,originalhulu.com
-DOMAIN-SUFFIX,payhulu.com
-DOMAIN-SUFFIX,registerhulu.com
-DOMAIN-SUFFIX,thehulubraintrust.com
-DOMAIN-SUFFIX,wwwhuluplus.com
-DOMAIN,hulu.playback.edge.bamgrid.com
-#end include:hulu
 #include:imdb
 # All .imdb domains
 DOMAIN-SUFFIX,imdb
@@ -8600,8 +8631,6 @@ DOMAIN-SUFFIX,kk.stream
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktix.com
-DOMAIN-SUFFIX,kktv.com.tw
-DOMAIN-SUFFIX,kktv.me
 #end include:kkbox
 #include:kktv
 DOMAIN-SUFFIX,kktv.com.tw
@@ -8699,7 +8728,6 @@ DOMAIN-SUFFIX,vod360.net
 #end include:mudvod
 #include:mytvsuper
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 #end include:mytvsuper
 #include:netflix
 DOMAIN-SUFFIX,fast.com
@@ -8935,7 +8963,6 @@ DOMAIN-SUFFIX,wimpmusic.com
 #end include:tidal
 #include:tiktok
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
@@ -9545,6 +9572,12 @@ DOMAIN-SUFFIX,streamable.com
 # Forums & Social network
 #include:category-forums
 # Forums & Social network
+#include:2ch
+DOMAIN-SUFFIX,2ch.hk
+DOMAIN-SUFFIX,2ch.life
+DOMAIN-SUFFIX,2ch.org
+DOMAIN-SUFFIX,2ch.su
+#end include:2ch
 #include:4chan
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4chan.org
@@ -10080,7 +10113,6 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
@@ -11039,8 +11071,6 @@ DOMAIN-SUFFIX,foxuv.com
 DOMAIN-SUFFIX,foxweatherwatch.com
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,fxn.ws
-DOMAIN-SUFFIX,fxnetwork.com
-DOMAIN-SUFFIX,fxnetworks.com
 
 # Bento Box Entertainment
 DOMAIN-SUFFIX,bentobox.tv
@@ -11244,10 +11274,6 @@ DOMAIN-SUFFIX,hketgroup.com
 DOMAIN-SUFFIX,ulifestyle.com.hk
 DOMAIN-SUFFIX,umagazine.com.hk
 #end include:hketgroup
-#include:hkopentv
-DOMAIN-SUFFIX,hkopentv.com
-DOMAIN-SUFFIX,fantv.hk
-#end include:hkopentv
 #include:huffpost
 DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk
@@ -12070,12 +12096,12 @@ DOMAIN-SUFFIX,tospo-keiba.jp
 #include:tvb
 #include:mytvsuper
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 #end include:mytvsuper
 
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,neigbuy.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com
@@ -12204,7 +12230,6 @@ DOMAIN-SUFFIX,the-japan-news.com
 DOMAIN-SUFFIX,ync.ne.jp
 DOMAIN-SUFFIX,yomikyo.or.jp
 DOMAIN-SUFFIX,yomilogi.com
-DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
 DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
@@ -13399,7 +13424,6 @@ DOMAIN-SUFFIX,27mmwmmw.top
 DOMAIN-SUFFIX,2adultflashgames.com
 DOMAIN-SUFFIX,2beeg.me
 DOMAIN-SUFFIX,2bit8.com
-DOMAIN-SUFFIX,2ch.hk
 DOMAIN-SUFFIX,2chav.com
 DOMAIN-SUFFIX,2dgen.com
 DOMAIN-SUFFIX,2gayboys.com
@@ -19497,7 +19521,6 @@ DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.cn
 DOMAIN-SUFFIX,kaspersky.com.hk
-DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.pl
 DOMAIN-SUFFIX,kaspersky.com.tr
 DOMAIN-SUFFIX,kaspersky.com.tw
@@ -20661,6 +20684,18 @@ DOMAIN-SUFFIX,macruby.org
 # MapKit
 DOMAIN-SUFFIX,apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 
@@ -21720,7 +21755,6 @@ DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,businesscatalyst.com
 DOMAIN-SUFFIX,ccnsite.com
 DOMAIN-SUFFIX,ccpsx.com
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dollarfotoclub.com
 DOMAIN-SUFFIX,dollarphotoclub.com
 DOMAIN-SUFFIX,dollarphotosclub.com
@@ -21816,6 +21850,7 @@ DOMAIN-SUFFIX,adobestats.io
 
 # Ads/tracking
 DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,tubemogul.com
 #end include:adobe
 #include:alibabacloud
@@ -23492,6 +23527,18 @@ DOMAIN-SUFFIX,macruby.org
 # MapKit
 DOMAIN-SUFFIX,apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 
@@ -24989,7 +25036,6 @@ DOMAIN-SUFFIX,apple-hk.com
 DOMAIN-SUFFIX,apple-ibooks.cn
 DOMAIN-SUFFIX,apple-inc.net
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
 DOMAIN-SUFFIX,apple-online.com
 DOMAIN-SUFFIX,apple-studies.com
@@ -25247,18 +25293,6 @@ DOMAIN,a3.mzstatic.com
 DOMAIN,a4.mzstatic.com
 DOMAIN,a5.mzstatic.com
 
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-DOMAIN,cdn.apple-mapkit.com
-DOMAIN,cdn1.apple-mapkit.com
-DOMAIN,cdn2.apple-mapkit.com
-DOMAIN,cdn3.apple-mapkit.com
-DOMAIN,cdn4.apple-mapkit.com
-DOMAIN,cdn-cn.apple-mapkit.com
-DOMAIN,cdn-cn1.apple-mapkit.com
-DOMAIN,cdn-cn2.apple-mapkit.com
-DOMAIN,cdn-cn3.apple-mapkit.com
-DOMAIN,cdn-cn4.apple-mapkit.com
-
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
@@ -25443,6 +25477,16 @@ DOMAIN-SUFFIX,statuspage.io
 #end include:atlassian
 #include:att
 # AT&T Inc.
+#include:attwatchtv
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
+#end include:attwatchtv
 
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
@@ -25455,7 +25499,6 @@ DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,att.jobs
 DOMAIN-SUFFIX,att.net
-DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,attalascom.com
 DOMAIN-SUFFIX,attbelieves.com
 DOMAIN-SUFFIX,attbusiness.net
@@ -25477,7 +25520,6 @@ DOMAIN-SUFFIX,attspecial.com
 DOMAIN-SUFFIX,attssl.com
 DOMAIN-SUFFIX,attstadium.com
 DOMAIN-SUFFIX,attsuppliers.com
-DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
@@ -25495,7 +25537,6 @@ DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,naturalvoices.com
-DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,patentgold.net
@@ -25516,6 +25557,8 @@ DOMAIN-SUFFIX,attdns.net
 DOMAIN-SUFFIX,na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 DOMAIN-SUFFIX,audiencenetwork.com
 DOMAIN-SUFFIX,audiencenetwork.tv
 DOMAIN-SUFFIX,cabletvdirectv.com
@@ -27702,7 +27745,6 @@ DOMAIN-SUFFIX,niosii.net
 DOMAIN-SUFFIX,omekinteractive.com
 DOMAIN-SUFFIX,omnitek.tv
 DOMAIN-SUFFIX,openamt.com
-DOMAIN-SUFFIX,opendroneid.org
 DOMAIN-SUFFIX,optanedifference.com
 DOMAIN-SUFFIX,passwordday.org
 DOMAIN-SUFFIX,pc.com
@@ -27889,7 +27931,6 @@ DOMAIN-SUFFIX,kaspersky.co.za
 DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.cn
-DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.pl
 DOMAIN-SUFFIX,kaspersky.com.tr
@@ -28804,7 +28845,6 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
