@@ -3441,8 +3441,6 @@ DOMAIN-SUFFIX,cc-pay.cn
 ## 橙券
 DOMAIN-SUFFIX,51106.cn
 DOMAIN-SUFFIX,chengquan.cn
-## 重庆通卡
-DOMAIN-SUFFIX,cqtk.com.cn
 ## 易鑫金融
 DOMAIN-SUFFIX,daikuan.com
 ## 嘟噜支付
@@ -4583,9 +4581,19 @@ DOMAIN-SUFFIX,zgjx.cn
 
 # Public transportation
 ## 中国国际航空
-#include:airchina
-DOMAIN-SUFFIX,airchina.com.cn    #中国国际航空
-DOMAIN-SUFFIX,airchinacargo.com    #中国国际货运航空
+#include:airchina @-!cn
+DOMAIN-SUFFIX,airchina.cn
+DOMAIN-SUFFIX,airchina.com
+DOMAIN-SUFFIX,airchina.com.cn
+DOMAIN-SUFFIX,airchinacargo.com
+DOMAIN-SUFFIX,airchinagroup.com
+DOMAIN-SUFFIX,airchinalimited.cn
+DOMAIN-SUFFIX,airchinalimited.com
+DOMAIN-SUFFIX,airchinalimited.com.cn
+DOMAIN-SUFFIX,fly-airchina.com
+DOMAIN-SUFFIX,phoenixmiles.cn
+DOMAIN-SUFFIX,phoenixmiles.com
+DOMAIN-SUFFIX,phoenixmiles.com.cn
 #end include:airchina
 ## 海南航空
 #include:hainanairlines
@@ -4639,6 +4647,22 @@ DOMAIN-SUFFIX,urumqi-air.com
 ## 厦门航空
 DOMAIN-SUFFIX,xiamenair.com
 
+## 北京市政交通一卡通
+DOMAIN-SUFFIX,bmac.com.cn
+## 重庆通卡
+DOMAIN-SUFFIX,cqtk.com.cn
+## 北京如意行
+DOMAIN-SUFFIX,ruubypay.com
+## 上海交通卡
+DOMAIN-SUFFIX,sctcd.com
+DOMAIN-SUFFIX,sptcc.com
+## 深圳通
+DOMAIN-SUFFIX,shenzhentong.com
+
+## 一些钱包 app 里手机交通卡供应商
+DOMAIN-SUFFIX,nfcos.cn
+DOMAIN-SUFFIX,snowballtech.com
+
 ## 中国民航局
 DOMAIN-SUFFIX,caac.gov.cn
 ## 信天游（航空电子客票验真）
@@ -4656,8 +4680,6 @@ DOMAIN-SUFFIX,variflight.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,95306.cn
 DOMAIN-SUFFIX,ccrgt.com
-## 北京市政交通一卡通
-DOMAIN-SUFFIX,bmac.com.cn
 ## 车来了
 DOMAIN-SUFFIX,chelaile.net.cn
 ## 活力智汇/高铁管家/航班管家
@@ -6285,6 +6307,7 @@ DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
 DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,oss-cn-chengdu.aliyuncs.com
