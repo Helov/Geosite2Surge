@@ -67,7 +67,33 @@ DOMAIN-SUFFIX,rutube.sport
 #end include:rutube
 #end include:category-entertainment-ru
 #include:category-games-!cn
+#include:activision-blizzard
+#include:activision
+# Use `geosite:activision-blizzard` if you want to match more domains
+DOMAIN-SUFFIX,activision.com
+DOMAIN-SUFFIX,callofduty.com
+DOMAIN-SUFFIX,callofdutyendowment.com
+DOMAIN-SUFFIX,callofdutyendowment.org
+DOMAIN-SUFFIX,callofdutyleague.com
+DOMAIN-SUFFIX,callofdutymobile.com
+DOMAIN-SUFFIX,crashbandicoot.com
+DOMAIN-SUFFIX,demonware.net
+DOMAIN-SUFFIX,highmoonstudios.com
+DOMAIN-SUFFIX,infinityward.com
+DOMAIN-SUFFIX,ravensoftware.com
+DOMAIN-SUFFIX,sekirothegame.com
+DOMAIN-SUFFIX,sierragames.com
+DOMAIN-SUFFIX,skylanders.com
+DOMAIN-SUFFIX,sledgehammergames.com
+DOMAIN-SUFFIX,solidstate.com
+DOMAIN-SUFFIX,spyrothedragon.com
+DOMAIN-SUFFIX,tonyhawk.com
+DOMAIN-SUFFIX,tonyhawkthegame.com
+DOMAIN-SUFFIX,treyarch.com
+DOMAIN-SUFFIX,worldseriesofwarzone.com
+#end include:activision
 #include:blizzard
+# Use `geosite:activision-blizzard` if you want to match more domains
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blz-contentstack.com
@@ -82,7 +108,9 @@ DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 
 # Diablo
+DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
 DOMAIN-SUFFIX,diabloimmortal.com
 
 # Hearthstone
@@ -109,6 +137,16 @@ DOMAIN,blizzcon-a.akamaihd.net
 DOMAIN,blzmedia-a.akamaihd.net
 DOMAIN,blznav.akamaized.net
 #end include:blizzard
+
+# King
+DOMAIN-SUFFIX,candycrush.com
+DOMAIN-SUFFIX,king.com
+
+DOMAIN-SUFFIX,activisionblizzard.com
+DOMAIN-SUFFIX,activisionblizzardmedia.com
+DOMAIN-SUFFIX,benefitsforeveryworld.com
+DOMAIN-SUFFIX,europeanwarzoneseries.com
+#end include:activision-blizzard
 #include:bluearchive
 DOMAIN-SUFFIX,bluearchive.jp
 DOMAIN-SUFFIX,bluearchive.nexon.com
@@ -1097,6 +1135,7 @@ DOMAIN-SUFFIX,wbgames.com
 DOMAIN-SUFFIX,wbinsights.com
 #end include:wbgames
 #include:xbox
+#include:activision-blizzard
 #include:asobo
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,flightsimulator.com
