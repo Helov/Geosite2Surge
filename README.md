@@ -999,6 +999,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | nikkei | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nikkei |
 | nintendo | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nintendo |
 | nist | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nist |
+| nixos | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nixos |
 | nodejs | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nodejs |
 | nodeseek | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/nodeseek |
 | noip | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/noip |
