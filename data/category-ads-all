@@ -16,9 +16,6 @@ DOMAIN-SUFFIX,yektanet.com
 #include:36kr @ads
 DOMAIN-SUFFIX,adx.36kr.com
 #end include:36kr
-#include:acfun @ads
-DOMAIN,apilog-web.acfun.cn
-#end include:acfun
 #include:adobe @ads
 #include:adobe-activation
 #end include:adobe-activation
@@ -536,6 +533,9 @@ DOMAIN,metrika.kontur.ru
 DOMAIN,sentry.kontur.host
 #end include:kontur
 #include:kuaishou @ads
+#include:acfun
+DOMAIN,apilog-web.acfun.cn
+#end include:acfun
 DOMAIN-SUFFIX,adbkwai.com
 DOMAIN-SUFFIX,adkwai.com
 DOMAIN-SUFFIX,adukwai.com

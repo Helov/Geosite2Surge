@@ -1385,7 +1385,6 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | typekit | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/typekit |
 | typenetwork | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/typenetwork |
 | typography | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/typography |
-| u17 | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/u17 |
 | uber | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/uber |
 | ubiquiti | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/ubiquiti |
 | ubisoft | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/ubisoft |
