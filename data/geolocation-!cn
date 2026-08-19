@@ -8812,6 +8812,8 @@ DOMAIN,netflix.com.edgesuite.net
 # All .nico domains
 DOMAIN-SUFFIX,nico
 
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com
@@ -9628,6 +9630,7 @@ DOMAIN-SUFFIX,4channel.org
 #end include:4chan
 #include:5ch
 DOMAIN-SUFFIX,2ch.net
+DOMAIN-SUFFIX,5ch.io
 DOMAIN-SUFFIX,5ch.net
 #end include:5ch
 #include:6park
@@ -10450,6 +10453,7 @@ DOMAIN-SUFFIX,vkpay.io
 DOMAIN-SUFFIX,vkpay.ru
 #end include:vk
 
+DOMAIN-SUFFIX,fansly.com
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,truthsocial.com
 
@@ -23254,10 +23258,13 @@ DOMAIN-SUFFIX,amazonaws.org
 DOMAIN-SUFFIX,amazonaws.tv
 DOMAIN-SUFFIX,amazoncognito.com
 DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,amazonwebservices.com
 DOMAIN-SUFFIX,amazonworkdocs.com
 DOMAIN-SUFFIX,amplifyapp.com
 DOMAIN-SUFFIX,amplifyframework.com
 DOMAIN-SUFFIX,aws-iot-hackathon.com
+DOMAIN-SUFFIX,aws.a2z.com
+DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,aws.com
 DOMAIN-SUFFIX,aws.dev
 DOMAIN-SUFFIX,awsapprunner.com

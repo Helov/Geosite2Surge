@@ -2156,6 +2156,8 @@ DOMAIN,netflix.com.edgesuite.net
 # All .nico domains
 DOMAIN-SUFFIX,nico
 
+DOMAIN-SUFFIX,nico.ms
+DOMAIN-SUFFIX,nicochannel.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
 DOMAIN-SUFFIX,niconico.com
