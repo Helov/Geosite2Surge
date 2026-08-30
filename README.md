@@ -84,6 +84,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | amc | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amc |
 | amd | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amd |
 | amp | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amp |
+| amplitude | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/amplitude |
 | anaconda | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/anaconda |
 | anandtech | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/anandtech |
 | android | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/android |
