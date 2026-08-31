@@ -3217,6 +3217,8 @@ DOMAIN-SUFFIX,mybank.cn
 # 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
 DOMAIN-SUFFIX,ms-bank.cn
 # 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
+DOMAIN-SUFFIX,tctpwebankcdn.net
+DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
 # 湖南三湘银行股份有限公司 BANK OF SANXIANG
@@ -5289,8 +5291,8 @@ DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,diandianlife.top
 #end include:askdiandian
 #include:deepseek
-# Main domain
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
 #end include:deepseek
 #include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
@@ -5416,8 +5418,9 @@ DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 
-# WorkBuddy 腾讯云代码助手
+# WorkBuddy
 DOMAIN-SUFFIX,codebuddy.cn
+DOMAIN-SUFFIX,workbuddy.cn
 # 腾讯混元
 DOMAIN-SUFFIX,hunyuan.tencent.com
 # 元宝
@@ -8750,6 +8753,7 @@ DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360panyun.cn
 DOMAIN-SUFFIX,360qhcdn.com
 DOMAIN-SUFFIX,360safe.com
+DOMAIN-SUFFIX,360scdn.com
 DOMAIN-SUFFIX,360shouji.com
 DOMAIN-SUFFIX,360so.com
 DOMAIN-SUFFIX,360sou.cn
@@ -9027,7 +9031,9 @@ DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn
 DOMAIN-SUFFIX,tencentcdb.com
 DOMAIN-SUFFIX,tencentcdb.com.cn
+DOMAIN-SUFFIX,tencentclb.cn
 DOMAIN-SUFFIX,tencentclb.com
+DOMAIN-SUFFIX,tencentclb.com.cn
 DOMAIN-SUFFIX,tencentcloud-aiot.com
 DOMAIN-SUFFIX,tencentcloudapi.com
 DOMAIN-SUFFIX,tencentcloudclub.com
@@ -9416,6 +9422,8 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,tencent.net
 DOMAIN-SUFFIX,tencent.net.cn
+DOMAIN-SUFFIX,tencentmiying.com
+DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
