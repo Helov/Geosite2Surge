@@ -8697,6 +8697,12 @@ DOMAIN-SUFFIX,r01.ru
 DOMAIN-SUFFIX,sweb.ru
 #end include:nic-ru
 #include:nvidia
+#include:huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+#end include:huggingface
+
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
 DOMAIN-SUFFIX,geforce.co.uk
