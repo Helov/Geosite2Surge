@@ -1231,6 +1231,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | slideshare | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/slideshare |
 | sling | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/sling |
 | smartone | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/smartone |
+| smena | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/smena |
 | smtiaojiaoshi | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/smtiaojiaoshi |
 | smzdm | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/smzdm |
 | snap | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/snap |
