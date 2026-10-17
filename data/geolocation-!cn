@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
 #end include:cursor
 #include:elevenlabs
 DOMAIN-SUFFIX,elevenlabs.com
@@ -179,6 +180,7 @@ DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.org
 DOMAIN-SUFFIX,sora.com
 
 # CDN & API
@@ -253,6 +255,9 @@ DOMAIN-SUFFIX,deepwiki.org
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
+
+# Jev
+DOMAIN-SUFFIX,typesafe.ai
 
 # Kimi/Moonshot
 DOMAIN-SUFFIX,kimi.ai
@@ -2534,6 +2539,7 @@ DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabcdn.com
 DOMAIN-SUFFIX,schwabplan.com
 #end include:schwab
 #include:standardchartered
@@ -31038,6 +31044,8 @@ DOMAIN-SUFFIX,boringcompany.com
 #include:timeweb
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,timeweb.tech
+DOMAIN-SUFFIX,timewebcloud.kz
 DOMAIN-SUFFIX,twcstorage.ru
 #end include:timeweb
 #include:tonec

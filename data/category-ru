@@ -2045,6 +2045,8 @@ DOMAIN-SUFFIX,tildacdn.net
 #include:timeweb
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,timeweb.tech
+DOMAIN-SUFFIX,timewebcloud.kz
 DOMAIN-SUFFIX,twcstorage.ru
 #end include:timeweb
 #include:ucoz
