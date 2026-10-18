@@ -1475,12 +1475,6 @@ DOMAIN-SUFFIX,wbinsights.com
 #end include:wbgames
 #include:xbox
 #include:activision-blizzard
-#include:asobo
-DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
-
-DOMAIN,flightsimulator.azureedge.net
-#end include:asobo
 #include:bethesda
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net

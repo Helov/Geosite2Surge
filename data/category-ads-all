@@ -697,8 +697,6 @@ DOMAIN-SUFFIX,browser.events.data.msn.com
 #include:onedrive
 #end include:onedrive
 #include:xbox
-#include:asobo
-#end include:asobo
 #include:bethesda
 #end include:bethesda
 #include:forza

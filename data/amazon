@@ -160,6 +160,7 @@ DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+DOMAIN-SUFFIX,pv-cdn.net
 #end include:primevideo
 #include:wholefoodsmarket
 DOMAIN-SUFFIX,wfm.com
