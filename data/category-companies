@@ -8627,6 +8627,9 @@ DOMAIN-SUFFIX,kion.ru
 ## ON Media (MTS Media)
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
+
+# MTS-link, a video-conference application
+DOMAIN-SUFFIX,mts-link.ru
 #end include:mts-ru
 #include:musixmatch
 DOMAIN-SUFFIX,musixmatch.com
@@ -9728,6 +9731,11 @@ DOMAIN-SUFFIX,ysm.yahoo.com
 #include:kinopoisk
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kp.yandex.net
+
+# Smart TV app
+DOMAIN,kp-config-smart-tv.akamaized.net
+DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 #end include:kinopoisk
 
 # All .yandex domains
