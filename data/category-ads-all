@@ -768,6 +768,7 @@ DOMAIN-WILDCARD,speed.*.ad.*.prod.hosts.ooklaserver.net
 #include:openai @ads
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com
 #end include:openai
 #include:ozon @ads

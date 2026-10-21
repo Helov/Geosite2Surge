@@ -3,13 +3,23 @@
 # AI Chat
 #include:category-ai-!cn
 #include:anthropic
+DOMAIN-SUFFIX,ant.dev
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.team
+DOMAIN-SUFFIX,antspace.dev    #https://github.com/AprilNEA/reverse-engineering-claude-code-antspace
+DOMAIN-SUFFIX,chatbotclaude.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.app
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,claude.dev
+DOMAIN-SUFFIX,claude.new
+DOMAIN-SUFFIX,claude.site
+DOMAIN-SUFFIX,claudeacademy.com
 DOMAIN-SUFFIX,claudemcpclient.com
 DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudepages.dev
+DOMAIN-SUFFIX,claudestudio.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 # CDN
@@ -196,6 +206,7 @@ DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com
 # tracking
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,openai.qualtrics.com
 
 # Advanced Voice
@@ -3885,6 +3896,19 @@ DOMAIN-SUFFIX,discordcdn.com
 DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
 DOMAIN,hammerandchisel.ssl.zendesk.com
 #end include:discord
+#include:fluxer
+DOMAIN-SUFFIX,fluxer.app
+DOMAIN-SUFFIX,fluxer.com
+DOMAIN-SUFFIX,fluxer.dev
+DOMAIN-SUFFIX,fluxer.gg
+DOMAIN-SUFFIX,fluxer.gift
+DOMAIN-SUFFIX,fluxer.media
+DOMAIN-SUFFIX,fluxer.tools
+DOMAIN-SUFFIX,fluxerapp.com
+DOMAIN-SUFFIX,fluxerstatus.com
+DOMAIN-SUFFIX,fluxerstatic.com
+DOMAIN-SUFFIX,fluxerusercontent.com
+#end include:fluxer
 #include:freenode
 DOMAIN-SUFFIX,freenode.net
 #end include:freenode
