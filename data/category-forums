@@ -50,6 +50,9 @@ DOMAIN-SUFFIX,ms.dzen.ru
 # CDN
 DOMAIN-SUFFIX,dzeninfra.ru
 #end include:dzen
+#include:fanfiction
+DOMAIN-SUFFIX,fanfiction.net
+#end include:fanfiction
 #include:habr
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,habrastorage.org
