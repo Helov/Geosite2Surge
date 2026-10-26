@@ -116,6 +116,11 @@ DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
 
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
+
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
 DOMAIN,cloudaicompanion.googleapis.com
@@ -8926,14 +8931,13 @@ DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
 
-# regular expression
+# CDN
 DOMAIN-WILDCARD,*apiproxy-device-prod-nlb-*.amazonaws.com
 DOMAIN-WILDCARD,*apiproxy-website-nlb-prod-*.amazonaws.com
 DOMAIN-WILDCARD,*dualstack.apiproxy-*.amazonaws.com
 DOMAIN-WILDCARD,*dualstack.ichnaea-web-*.amazonaws.com
 
-# Full
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 #end include:netflix
 #include:niconico
 # All .nico domains
@@ -9113,9 +9117,9 @@ DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 
 # Ads/tracking
 DOMAIN,adeventtracker.spotify.com
@@ -19882,6 +19886,10 @@ DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN,mozilla-ohttp.fastly-edge.com
 DOMAIN,mozilla.map.fastly.net
 #end include:firefox
+#include:librewolf
+DOMAIN-SUFFIX,librewolf.dev
+DOMAIN-SUFFIX,librewolf.net
+#end include:librewolf
 #include:torproject
 DOMAIN-SUFFIX,torproject.org
 #end include:torproject
@@ -19902,7 +19910,6 @@ DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
 DOMAIN-SUFFIX,kmeleonbrowser.org
-DOMAIN-SUFFIX,librewolf.net
 DOMAIN-SUFFIX,minbrowser.org
 DOMAIN-SUFFIX,netsurf-browser.org
 DOMAIN-SUFFIX,opera.com
@@ -20656,37 +20663,6 @@ DOMAIN-SUFFIX,steemit.com
 #include:svp
 DOMAIN-SUFFIX,svp-team.com
 #end include:svp
-#include:test-ipv6
-DOMAIN-SUFFIX,ams2.test-ipv6.com
-DOMAIN-SUFFIX,fra.test-ipv6.com
-DOMAIN-SUFFIX,sixte.st
-DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
-DOMAIN-SUFFIX,test-ipv6.arauc.br
-DOMAIN-SUFFIX,test-ipv6.belwue.net
-DOMAIN-SUFFIX,test-ipv6.carnet.hr
-DOMAIN-SUFFIX,test-ipv6.cl
-DOMAIN-SUFFIX,test-ipv6.com
-DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
-DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
-DOMAIN-SUFFIX,test-ipv6.cz
-DOMAIN-SUFFIX,test-ipv6.epic.network
-DOMAIN-SUFFIX,test-ipv6.fratec.net
-DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
-DOMAIN-SUFFIX,test-ipv6.go6.si
-DOMAIN-SUFFIX,test-ipv6.hu
-DOMAIN-SUFFIX,test-ipv6.is
-DOMAIN-SUFFIX,test-ipv6.iu13.net
-DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
-DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
-DOMAIN-SUFFIX,test-ipv6.roedu.net
-DOMAIN-SUFFIX,test-ipv6.se
-DOMAIN-SUFFIX,test-ipv6.sin.vr.org
-DOMAIN-SUFFIX,test-ipv6.ttk.ru
-DOMAIN-SUFFIX,testipv6.de
-
-# 豫ICP备20004384号
-DOMAIN-SUFFIX,testipv6.cn
-#end include:test-ipv6
 #include:tex
 # Comprehensive TeX Archive Network
 DOMAIN-SUFFIX,ctan.org
@@ -21421,6 +21397,7 @@ DOMAIN-SUFFIX,xamarin.com
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
@@ -21430,6 +21407,7 @@ DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
@@ -22291,6 +22269,11 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.gstatic.com
 DOMAIN,geminiweb-pa.clients.google.com
 DOMAIN,geminiweb-pa.clients6.google.com
+
+# Gemini in Google Workspace apps (Gmail, Docs, Drive side panel)
+DOMAIN,appsgenaiserver-pa.clients.google.com
+DOMAIN,appsgenaiserver-pa.clients6.google.com
+DOMAIN,appsgenaiserver-pa.googleapis.com
 
 # Gemini Code Assist
 # https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
@@ -29387,6 +29370,7 @@ DOMAIN-SUFFIX,cosmosdb.net
 DOMAIN-SUFFIX,devopsms.com
 DOMAIN-SUFFIX,gotcosmos.com
 DOMAIN-SUFFIX,hdinsightservices.cn
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,management-azure-devices-int.net
 DOMAIN-SUFFIX,management-azure-devices-provisioning.cn
 DOMAIN-SUFFIX,management-azure-devices.cn
@@ -29444,6 +29428,8 @@ DOMAIN-SUFFIX,azchcdns.com
 
 DOMAIN,azure.microsoft.com
 DOMAIN,azuremarketplace.microsoft.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
 
 # Azure DNS
 DOMAIN-SUFFIX,azure-dns.cn
@@ -29657,6 +29643,7 @@ DOMAIN-SUFFIX,xamarin.com
 
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
@@ -29666,6 +29653,7 @@ DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
@@ -29863,6 +29851,7 @@ DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,dynamics.com
@@ -30050,6 +30039,7 @@ DOMAIN-SUFFIX,t-msedge.net
 DOMAIN-SUFFIX,tailwindtraders.com
 DOMAIN-SUFFIX,techhub.ms
 DOMAIN-SUFFIX,tfsallin.net
+DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,translatetheweb.com
 DOMAIN-SUFFIX,unlocklimitlesslearning.com
 DOMAIN-SUFFIX,userpxt.io

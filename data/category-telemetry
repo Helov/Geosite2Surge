@@ -1,4 +1,253 @@
 # This file contains domains for software telemetry, error reporting and diagnostics.
+#include:acfun @telemetry
+DOMAIN,apilog-web.acfun.cn
+#end include:acfun
+#include:adobe @telemetry
+#include:adobe-activation
+#end include:adobe-activation
+#include:typekit
+#end include:typekit
+DOMAIN-SUFFIX,adobestats.io
+#end include:adobe
+#include:akamai @telemetry
+DOMAIN-SUFFIX,akstat.io
+#end include:akamai
+#include:alibaba @telemetry
+#include:alibabacloud
+#end include:alibabacloud
+#include:aligames
+#end include:aligames
+#include:aliyun
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+#end include:aliyun
+#include:aliyun-drive
+#end include:aliyun-drive
+#include:amap
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap
+#include:cainiao
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+#end include:cainiao
+#include:dingtalk
+#end include:dingtalk
+#include:eleme
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+#end include:eleme
+#include:shuqi
+DOMAIN-SUFFIX,shuqistat.com
+#end include:shuqi
+#include:teambition
+#end include:teambition
+#include:uc
+#end include:uc
+#include:umeng
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+#end include:umeng
+#include:youku
+DOMAIN-SUFFIX,adashx.ut.youku.com
+DOMAIN-SUFFIX,e.stat.ykimg.com
+DOMAIN-SUFFIX,h-adashx.ut.youku.com
+DOMAIN-SUFFIX,lstat.youku.com
+DOMAIN-SUFFIX,p-log.ykimg.com
+DOMAIN-SUFFIX,passport-log.youku.com
+DOMAIN-SUFFIX,s-adashx.ut.youku.com
+DOMAIN-SUFFIX,stat.youku.com
+DOMAIN-SUFFIX,statis.api.3g.youku.com
+DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+#end include:youku
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,adash-c.m.taobao.com
+DOMAIN-SUFFIX,adash-c.ut.taobao.com
+DOMAIN-SUFFIX,adash.m.taobao.com
+DOMAIN-SUFFIX,adashbc.m.taobao.com
+DOMAIN-SUFFIX,adashbc.ut.taobao.com
+DOMAIN-SUFFIX,adashx.m.taobao.com
+DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
+DOMAIN-SUFFIX,adashx4yt.m.taobao.com
+DOMAIN-SUFFIX,adashxgc.ut.taobao.com
+DOMAIN-SUFFIX,adsh.m.taobao.com
+DOMAIN-SUFFIX,c-adash.m.taobao.com
+DOMAIN-SUFFIX,h-adashx.ut.taobao.com
+DOMAIN-SUFFIX,h-adashx4yt.ut.taobao.com
+DOMAIN-SUFFIX,m-adash.m.taobao.com
+DOMAIN-SUFFIX,retcode.taobao.com
+DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
+#end include:alibaba
+#include:aliyun @telemetry
+DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
+#end include:aliyun
+#include:amap @telemetry
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap
+#include:amplitude @telemetry
+DOMAIN-SUFFIX,api-secure.amplitude.com
+DOMAIN-SUFFIX,api-secure.eu.amplitude.com
+DOMAIN-SUFFIX,api-sr.amplitude.com
+DOMAIN-SUFFIX,api-sr.eu.amplitude.com
+DOMAIN-SUFFIX,api.amplitude.com
+DOMAIN-SUFFIX,api.eu.amplitude.com
+DOMAIN-SUFFIX,api2.amplitude.com
+DOMAIN-SUFFIX,assistant-api.amplitude.com
+DOMAIN-SUFFIX,assistant-api.eu.amplitude.com
+DOMAIN-SUFFIX,cdn.amplitude.com
+DOMAIN-SUFFIX,cdn.eu.amplitude.com
+DOMAIN-SUFFIX,engagement-static.amplitude.com
+DOMAIN-SUFFIX,engagement-static.eu.amplitude.com
+DOMAIN-SUFFIX,gs.amplitude.com
+DOMAIN-SUFFIX,gs.eu.amplitude.com
+DOMAIN-SUFFIX,lab.amplitude.com
+DOMAIN-SUFFIX,lab.eu.amplitude.com
+DOMAIN-SUFFIX,regionconfig.amplitude.com
+DOMAIN-SUFFIX,regionconfig.eu.amplitude.com
+DOMAIN-SUFFIX,sr-client-cfg.amplitude.com
+DOMAIN-SUFFIX,sr-client-cfg.eu.amplitude.com
+#end include:amplitude
+#include:avito @telemetry
+DOMAIN,stats.avito.ru
+#end include:avito
+#include:azure @telemetry
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
+#end include:azure
+#include:baidu @telemetry
+DOMAIN-SUFFIX,fclog.baidu.com
+DOMAIN-SUFFIX,pimlog.baidu.com
+#end include:baidu
+#include:bytedance @telemetry
+#include:bytedance-ai-!cn
+#include:dola
+#end include:dola
+#end include:bytedance-ai-!cn
+#include:doubao
+#end include:doubao
+#include:douyin
+#end include:douyin
+#include:fqnovel
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
+#end include:fqnovel
+#include:juejin
+#end include:juejin
+#include:lark
+#include:feishu
+#end include:feishu
+#include:lark-global
+#end include:lark-global
+#end include:lark
+#include:tiktok
+#end include:tiktok
+#include:trae
+#end include:trae
+#include:volcengine
+DOMAIN-SUFFIX,volceapplog.com
+#end include:volcengine
+DOMAIN-SUFFIX,applogcdn.com
+#include:dongchedi
+#end include:dongchedi
+DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
+#end include:bytedance
+#include:cainiao @telemetry
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
+#end include:cainiao
+#include:category-food-cn @telemetry
+#include:bestore
+#end include:bestore
+#include:lkcoffee
+#end include:lkcoffee
+#include:mcdonalds @cn
+#end include:mcdonalds
+#include:starbucks @cn
+#end include:starbucks
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
+#end include:category-food-cn
+#include:cloudflare @telemetry
+#include:cloudflare-cn
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+#end include:cloudflare-cn
+#include:cloudflare-ipfs
+#end include:cloudflare-ipfs
+DOMAIN-SUFFIX,cloudflareinsights.com
+#end include:cloudflare
+#include:cloudflare-cn @telemetry
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+#end include:cloudflare-cn
+#include:disney @telemetry
+#include:abc
+#end include:abc
+#include:bamtech
+#end include:bamtech
+#include:espn
+#end include:espn
+#include:hotstar
+#end include:hotstar
+#include:hulu
+#end include:hulu
+#include:marvel
+#end include:marvel
+#include:nationalgeographic
+#end include:nationalgeographic
+#include:starplus
+#end include:starplus
+DOMAIN,disney.my.sentry.io
+#end include:disney
+#include:duolingo @telemetry
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+#end include:duolingo
+#include:dzen @telemetry
+DOMAIN-SUFFIX,log.dzen.ru
+#end include:dzen
+#include:eleme @telemetry
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me
+#end include:eleme
+#include:firebase @telemetry
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,update.crashlytics.com
+#end include:firebase
+#include:fqnovel @telemetry
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
+#end include:fqnovel
 #include:github @telemetry
 #include:github-copilot
 DOMAIN,copilot-telemetry-service.githubusercontent.com
@@ -13,6 +262,118 @@ DOMAIN-SUFFIX,collector.github.com
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 #end include:github-copilot
+#include:gog @telemetry
+DOMAIN-SUFFIX,insights-collector.gog.com
+#end include:gog
+#include:hetzner @telemetry
+DOMAIN,sentry.hetzner.company
+#end include:hetzner
+#include:hoyoverse @telemetry
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+#end include:hoyoverse
+#include:hunantv @telemetry
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN-SUFFIX,log.v2.hunantv.com
+#end include:hunantv
+#include:iqiyi @telemetry
+DOMAIN-SUFFIX,ifacelog.iqiyi.com
+DOMAIN-SUFFIX,mbdlog.iqiyi.com
+#end include:iqiyi
+#include:jd @telemetry
+DOMAIN-SUFFIX,stat.m.jd.com
+#end include:jd
+#include:kontur @telemetry
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+#end include:kontur
+#include:kuaishou @telemetry
+#include:acfun
+DOMAIN,apilog-web.acfun.cn
+#end include:acfun
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
+#end include:kuaishou
+#include:mailru-group @telemetry
+#include:dzen
+DOMAIN-SUFFIX,log.dzen.ru
+#end include:dzen
+#include:ok
+#end include:ok
+#include:vk
+DOMAIN,stats.vk-portal.net
+#end include:vk
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
+DOMAIN,sentry-ng.g.smailru.net
+DOMAIN,srch-telemeter10.g.smailru.net
+DOMAIN,sentry.dev-my.com
+DOMAIN,sentry.dev-my.games
+DOMAIN,sentry.rustore.ru
+DOMAIN,sentry.viqeo.tv
+DOMAIN,stats.dahlmessenger.com
+DOMAIN,stats.dev.telega.info
+DOMAIN,stats.rustore.ru
+DOMAIN,stats.telega.info
+#end include:mailru-group
+#include:meitu @telemetry
+DOMAIN-SUFFIX,meitustat.com
+#end include:meitu
+#include:microsoft @telemetry
+#include:azure
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com
+#end include:azure
+#include:bing
+#end include:bing
+#include:github
+#include:github-copilot
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+#end include:github-copilot
+#include:npmjs
+#end include:npmjs
+DOMAIN-SUFFIX,cafe.github.com
+DOMAIN-SUFFIX,collector.github.com
+#end include:github
+#include:microsoft-dev
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com
+#end include:microsoft-dev
+#include:microsoft-pki
+#end include:microsoft-pki
+#include:msn
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+#end include:msn
+#include:onedrive
+#end include:onedrive
+#include:xbox
+#include:bethesda
+#end include:bethesda
+#include:forza
+#end include:forza
+#include:mojang
+#end include:mojang
+#end include:xbox
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,aria.ms
+DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,nelreports.net
+#end include:microsoft
+#include:microsoft-dev @telemetry
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com
+#end include:microsoft-dev
+#include:mihoyo-cn @telemetry
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+#end include:mihoyo-cn
+#include:mindbox @telemetry
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
+#end include:mindbox
 #include:mozilla @telemetry
 #include:firefox
 #end include:firefox
@@ -21,3 +382,215 @@ DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,incoming-telemetry.thunderbird.net
 #end include:mozilla
+#include:msn @telemetry
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+#end include:msn
+#include:netease @telemetry
+DOMAIN-SUFFIX,analytics.163.com
+DOMAIN-SUFFIX,crash.163.com
+DOMAIN-SUFFIX,crashlytics.163.com
+DOMAIN-SUFFIX,sentry.music.163.com
+#end include:netease
+#include:openai @telemetry
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
+#end include:openai
+#include:osu @telemetry
+DOMAIN,sentry.ppy.sh
+#end include:osu
+#include:ozon @telemetry
+DOMAIN,sentry.ozon.ru
+#end include:ozon
+#include:paypal @telemetry
+DOMAIN-SUFFIX,paypalbeacon.com
+#end include:paypal
+#include:pikpak @telemetry
+DOMAIN,o4504926511693824.ingest.sentry.io
+#end include:pikpak
+#include:rostelecom @telemetry
+#include:wink
+#end include:wink
+DOMAIN,sentry.iptv.rt.ru
+#end include:rostelecom
+#include:sber @telemetry
+#include:2gis
+#end include:2gis
+#include:okko
+#end include:okko
+#include:sberbank
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+#end include:sberbank
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+#end include:sber
+#include:sberbank @telemetry
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+#end include:sberbank
+#include:shuqi @telemetry
+DOMAIN-SUFFIX,shuqistat.com
+#end include:shuqi
+#include:sina @telemetry
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,log2.sina.cn
+DOMAIN-SUFFIX,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,slog.sina.cn
+DOMAIN-SUFFIX,slog.sina.com.cn
+#end include:sina
+#include:tencent @telemetry
+#include:qcloud
+#include:discuz
+#end include:discuz
+#include:dnspod
+#end include:dnspod
+#end include:qcloud
+#include:sogou
+#end include:sogou
+#include:tencent-dev
+#include:cnb
+#end include:cnb
+#include:coding
+#end include:coding
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+#end include:tencent-dev
+#include:tencent-games
+#end include:tencent-games
+#include:tencent-tme
+#include:kugou
+#end include:kugou
+#include:kuwo
+#end include:kuwo
+#include:ximalaya
+#end include:ximalaya
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+#end include:tencent-tme
+#include:yuewen
+#include:webnovel
+#end include:webnovel
+#end include:yuewen
+DOMAIN-SUFFIX,beacon.cdn.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,beaconcdn.qq.com
+DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,htrace.wetvinfo.com
+DOMAIN-SUFFIX,log.tbs.qq.com
+DOMAIN-SUFFIX,monitor.uu.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,rmonitor.qq.com
+DOMAIN-SUFFIX,sngmta.qq.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
+DOMAIN-SUFFIX,trace.qq.com
+#end include:tencent
+#include:tencent-dev @telemetry
+#include:cnb
+#end include:cnb
+#include:coding
+#end include:coding
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+#end include:tencent-dev
+#include:tencent-tme @telemetry
+#include:kugou
+#end include:kugou
+#include:kuwo
+#end include:kuwo
+#include:ximalaya
+#end include:ximalaya
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+#end include:tencent-tme
+#include:umeng @telemetry
+DOMAIN-SUFFIX,alog.umeng.com
+DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
+#end include:umeng
+#include:unity @telemetry
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+#end include:unity
+#include:vk @telemetry
+DOMAIN,stats.vk-portal.net
+#end include:vk
+#include:volcengine @telemetry
+DOMAIN-SUFFIX,volceapplog.com
+#end include:volcengine
+#include:wildberries @telemetry
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+#end include:wildberries
+#include:x5 @telemetry
+DOMAIN,sentry.x5.ru
+#end include:x5
+#include:xhamster @telemetry
+DOMAIN-SUFFIX,collector.xhamster.com
+#end include:xhamster
+#include:xiaomi @telemetry
+#include:xiaomi-ai
+#end include:xiaomi-ai
+#include:xiaomi-iot
+#end include:xiaomi-iot
+DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+DOMAIN-SUFFIX,data.mistat.xiaomi.com
+DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
+DOMAIN-SUFFIX,sentry.d.mi.com
+DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,stats.music.xiaomi.com
+#end include:xiaomi
+#include:yandex @telemetry
+#include:kinopoisk
+#end include:kinopoisk
+DOMAIN-SUFFIX,appmetrica.yandex.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
+DOMAIN-SUFFIX,counter.yandex.ru
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,metrika.yandex.com
+DOMAIN-SUFFIX,metrika.yandex.net
+DOMAIN-SUFFIX,metrika.yandex.ru
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,yandex-metrica.ru
+DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,log.strm.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
+#end include:yandex
+#include:youku @telemetry
+DOMAIN-SUFFIX,adashx.ut.youku.com
+DOMAIN-SUFFIX,e.stat.ykimg.com
+DOMAIN-SUFFIX,h-adashx.ut.youku.com
+DOMAIN-SUFFIX,lstat.youku.com
+DOMAIN-SUFFIX,p-log.ykimg.com
+DOMAIN-SUFFIX,passport-log.youku.com
+DOMAIN-SUFFIX,s-adashx.ut.youku.com
+DOMAIN-SUFFIX,stat.youku.com
+DOMAIN-SUFFIX,statis.api.3g.youku.com
+DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+#end include:youku
+#include:zhihu @telemetry
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+#end include:zhihu

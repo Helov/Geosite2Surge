@@ -2168,14 +2168,13 @@ DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
 
-# regular expression
+# CDN
 DOMAIN-WILDCARD,*apiproxy-device-prod-nlb-*.amazonaws.com
 DOMAIN-WILDCARD,*apiproxy-website-nlb-prod-*.amazonaws.com
 DOMAIN-WILDCARD,*dualstack.apiproxy-*.amazonaws.com
 DOMAIN-WILDCARD,*dualstack.ichnaea-web-*.amazonaws.com
 
-# Full
-DOMAIN,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 #end include:netflix
 #include:niconico
 # All .nico domains
@@ -2355,9 +2354,9 @@ DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
 DOMAIN,heads-ak-spotify-com.akamaized.net
 DOMAIN,heads4-ak-spotify-com.akamaized.net
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 
 # Ads/tracking
 DOMAIN,adeventtracker.spotify.com
