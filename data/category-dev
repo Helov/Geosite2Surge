@@ -796,6 +796,23 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 #end include:v8
+#include:webflow
+DOMAIN-SUFFIX,webflow-ext.com
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,webflow.io
+DOMAIN-SUFFIX,website-files.com
+#end include:webflow
+#include:wix
+DOMAIN-SUFFIX,editorx.com
+DOMAIN-SUFFIX,parastorage.com
+DOMAIN-SUFFIX,wix-code.com
+DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,wixanswers.com
+DOMAIN-SUFFIX,wixapps.net
+DOMAIN-SUFFIX,wixmp.com
+DOMAIN-SUFFIX,wixsite.com
+DOMAIN-SUFFIX,wixstatic.com
+#end include:wix
 #include:wordpress
 DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,w.org
@@ -817,6 +834,7 @@ DOMAIN-SUFFIX,artixlinux.org
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
 DOMAIN-SUFFIX,bitvise.com
+DOMAIN-SUFFIX,bmonkeys.net
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,centos.org
@@ -913,7 +931,6 @@ DOMAIN-SUFFIX,videolan.org
 DOMAIN-SUFFIX,vim.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
-DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
@@ -924,6 +941,8 @@ DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
 
 # WordPress plugins
+DOMAIN-SUFFIX,boldgrid.com
+DOMAIN-SUFFIX,cloudwp.dev
 DOMAIN-SUFFIX,crocoblock.com
 DOMAIN-SUFFIX,elegantthemes.com
 DOMAIN-SUFFIX,hivepress.io

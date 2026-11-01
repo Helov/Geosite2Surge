@@ -375,6 +375,9 @@ DOMAIN-SUFFIX,zuidaima.com
 #include:category-electronic-cn
 # Electronic store/company's website with access point in China
 
+# 全志科技
+DOMAIN-SUFFIX,allwinnertech.com
+
 # Analog
 DOMAIN-SUFFIX,analog.com
 
@@ -390,6 +393,9 @@ DOMAIN-SUFFIX,boe.com.cn
 
 # 博流智能
 DOMAIN-SUFFIX,bouffalolab.com
+
+# 寒武纪
+DOMAIN-SUFFIX,cambricon.com
 
 # 长鑫存储
 DOMAIN-SUFFIX,cxmt.com
@@ -485,6 +491,9 @@ DOMAIN-SUFFIX,zxhgroup.com
 # 聆思科技
 DOMAIN-SUFFIX,listenai.com
 
+# 摩尔线程
+DOMAIN-SUFFIX,mthreads.com
+
 # 微纳核芯
 DOMAIN-SUFFIX,nanocorechip.com
 
@@ -500,6 +509,12 @@ DOMAIN-SUFFIX,seeedstudio.com.cn
 # 矽速科技
 DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,maixhub.com
+
+# 南芯半导体
+DOMAIN-SUFFIX,southchip.com
+
+# 平头哥
+DOMAIN-SUFFIX,t-head.cn
 
 # 德州仪器
 #ti.com
@@ -1945,6 +1960,14 @@ DOMAIN-SUFFIX,shuanghui.net
 
 # 米村拌饭
 DOMAIN-SUFFIX,micun.com
+
+# 洽洽
+DOMAIN-SUFFIX,qiaqiafood.com
+
+# 鸣鸣很忙
+DOMAIN-SUFFIX,busyming.com
+DOMAIN-SUFFIX,hnlshm.com
+DOMAIN-SUFFIX,zymls.com
 
 # Tracking
 DOMAIN-SUFFIX,logger.qmai.cn
@@ -5507,6 +5530,7 @@ DOMAIN-SUFFIX,building.fun
 DOMAIN-SUFFIX,instreet.com
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
@@ -6851,6 +6875,7 @@ DOMAIN-SUFFIX,alisoft.com
 DOMAIN-SUFFIX,alisports.com
 DOMAIN-SUFFIX,alitianji.com
 DOMAIN-SUFFIX,aliunicorn.com
+DOMAIN-SUFFIX,alivecdn.com
 DOMAIN-SUFFIX,aliway.com
 DOMAIN-SUFFIX,aliwork.com
 DOMAIN-SUFFIX,alixiaomi.com
@@ -6890,6 +6915,7 @@ DOMAIN-SUFFIX,liangxinyao.com
 DOMAIN-SUFFIX,m-now.cn
 DOMAIN-SUFFIX,maitix.com
 DOMAIN-SUFFIX,mappcloud.com
+DOMAIN-SUFFIX,mayibao.cn
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,miaostreet.com
@@ -6927,6 +6953,7 @@ DOMAIN-SUFFIX,freshippo.com
 DOMAIN-SUFFIX,hemamax.com
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemashare.cn
+DOMAIN-SUFFIX,hmxs.cn
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,fund123.cn
@@ -7232,6 +7259,7 @@ DOMAIN-SUFFIX,building.fun
 DOMAIN-SUFFIX,instreet.com
 DOMAIN-SUFFIX,doubao-dev.com
 DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaoapps.com
 DOMAIN-SUFFIX,doubaocdn.com
 DOMAIN-SUFFIX,hi-butterfly.cn
 DOMAIN-SUFFIX,maoxiangai.com
@@ -7910,6 +7938,7 @@ DOMAIN-SUFFIX,cdndns2.com
 DOMAIN-SUFFIX,doubo03.com
 DOMAIN-SUFFIX,draftstatic.com
 DOMAIN-SUFFIX,druid.vip
+DOMAIN-SUFFIX,edge-byted.com
 DOMAIN-SUFFIX,fedlearner.net
 DOMAIN-SUFFIX,feelgood.cn
 DOMAIN-SUFFIX,gcloudcache.com
@@ -8096,6 +8125,7 @@ DOMAIN-SUFFIX,ppximg.com
 DOMAIN-SUFFIX,ppxstatic.com
 DOMAIN-SUFFIX,ppxvod.com
 DOMAIN-SUFFIX,xiaoxiaapi.com
+DOMAIN-SUFFIX,haimian.com
 DOMAIN-SUFFIX,dailygn.com
 DOMAIN-SUFFIX,nvsgames.cn
 DOMAIN-SUFFIX,buydouke.com
@@ -9626,6 +9656,7 @@ DOMAIN-SUFFIX,tencent.net.cn
 DOMAIN-SUFFIX,tencentmiying.com
 DOMAIN-SUFFIX,tengmed.com
 DOMAIN-SUFFIX,tenpay.com
+DOMAIN-SUFFIX,tenpayglobal.com
 DOMAIN-SUFFIX,tfogc.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
@@ -9640,6 +9671,8 @@ DOMAIN-SUFFIX,mmbizurl.cn
 DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxmpurl.cn
+DOMAIN-SUFFIX,wesure.cn
+DOMAIN-SUFFIX,wesure100.com
 DOMAIN-SUFFIX,alloyteam.com
 DOMAIN-SUFFIX,imweb.io
 DOMAIN-SUFFIX,ivweb.io
@@ -10040,6 +10073,9 @@ DOMAIN-SUFFIX,isxtv.com
 
 # 山東省
 DOMAIN-SUFFIX,sdgdwljt.com
+
+# 3GPP 公网域 (IMS / VoWiFi)
+DOMAIN-SUFFIX,mnc015.mcc460.pub.3gppnetwork.org
 #end include:chinabroadnet
 #include:chinamobile @-!cn
 DOMAIN-SUFFIX,10086.cn
@@ -10075,6 +10111,10 @@ DOMAIN-SUFFIX,cmdcxls.com
 DOMAIN-SUFFIX,cxzx10086.cn
 DOMAIN-SUFFIX,fxltsbl.com
 DOMAIN-SUFFIX,zdsdp.com
+DOMAIN-SUFFIX,mnc000.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc002.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc004.mcc460.pub.3gppnetwork.org
+DOMAIN-SUFFIX,mnc007.mcc460.pub.3gppnetwork.org
 #end include:chinamobile
 #include:chinatelecom @-!cn
 #include:ctexcel
@@ -10092,6 +10132,7 @@ DOMAIN-SUFFIX,dlife.cn
 DOMAIN-SUFFIX,play.cn
 DOMAIN-SUFFIX,tv189.com
 DOMAIN-SUFFIX,vnet.cn
+DOMAIN-SUFFIX,mnc011.mcc460.pub.3gppnetwork.org
 #end include:chinatelecom
 #include:chinatower
 # 中国铁塔股份有限公司 京ICP备14039488

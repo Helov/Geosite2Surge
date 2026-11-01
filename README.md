@@ -1469,6 +1469,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | wbgames | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/wbgames |
 | weathercn | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/weathercn |
 | webex | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/webex |
+| webflow | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/webflow |
 | webnovel | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/webnovel |
 | webtype | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/webtype |
 | weiphone | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/weiphone |
