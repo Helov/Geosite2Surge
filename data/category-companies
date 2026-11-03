@@ -2968,7 +2968,7 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -9487,7 +9487,7 @@ DOMAIN-SUFFIX,verisign.vn
 DOMAIN-SUFFIX,verisigninc.com
 #end include:verisign
 #include:verizon
-# Note: the @verizon.net email domain is still running by Yahoo
+# Note: the @verizon.net email domain is still run by Yahoo
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com

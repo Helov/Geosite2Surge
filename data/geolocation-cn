@@ -3001,7 +3001,7 @@ DOMAIN-SUFFIX,zhenai.com
 DOMAIN-SUFFIX,zsxq.com
 #end include:category-social-media-cn
 
-# Advertisment & Analytics
+# Advertisement & Analytics
 #include:getui
 # 每日互动股份有限公司 浙ICP备14019898号
 DOMAIN-SUFFIX,gepush.com
@@ -5432,7 +5432,7 @@ DOMAIN-SUFFIX,zjlib.cn
 ## 志愿汇
 DOMAIN-SUFFIX,zyh365.com
 
-# Services & Softwares
+# Services & Software
 #include:category-ai-cn
 #include:askdiandian
 # 点点 Ai
@@ -10654,7 +10654,6 @@ DOMAIN-SUFFIX,hnchasing.com    #湘ICP备13002754号-2
 DOMAIN-SUFFIX,hnrcsc.com
 DOMAIN-SUFFIX,hnyuyuhui.com
 DOMAIN-SUFFIX,hollycrm.com
-DOMAIN-SUFFIX,homeinns.com
 DOMAIN-SUFFIX,homekoo.com
 DOMAIN-SUFFIX,hongsanban.com
 DOMAIN-SUFFIX,hongyuanqh.com
@@ -11053,7 +11052,6 @@ DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,tongdun.net
 DOMAIN-SUFFIX,tongkask.com    #苏ICP备2021040813号-1
 DOMAIN-SUFFIX,tool56.com    #tool56.com
-DOMAIN-SUFFIX,topthink.com
 DOMAIN-SUFFIX,touqikan.com
 DOMAIN-SUFFIX,touzid.com
 DOMAIN-SUFFIX,trjcn.com

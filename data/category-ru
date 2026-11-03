@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
 
 # - There is `[domain:]ru` in this list (from tld-ru), which matches all `*.ru` domains
-# - Redundant subdomains (full/domain type without attr) will be trimed by main.go
+# - Redundant subdomains (full/domain type without attr) will be trimmed by main.go
 #   In this list, `*.ru` domains without attr are redundant for the program and will not contribute to `geosite:category-ru`
 # - You can still add `*.ru` domains here if you want
 
@@ -2900,7 +2900,7 @@ DOMAIN-SUFFIX,ponyexpress.ru    #Courier delivery service
 DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
 DOMAIN-SUFFIX,randomgodbot.com    #Telegram randomizer bot
 DOMAIN-SUFFIX,robohall.tech    #Robohall, creative engineering and robotics studio (Moscow, Russia)
-DOMAIN-SUFFIX,srv-hub.org    #Website buider
+DOMAIN-SUFFIX,srv-hub.org    #Website builder
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
 DOMAIN-SUFFIX,vimu.tv    #Vimu Media Player

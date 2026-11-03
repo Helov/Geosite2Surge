@@ -331,7 +331,7 @@ DOMAIN-SUFFIX,tapnow.ai
 DOMAIN-SUFFIX,tripo3d.ai
 #end include:category-ai-!cn
 
-# Advertisment & Analytics
+# Advertisement & Analytics
 #include:pubmatic
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
 
@@ -1781,7 +1781,7 @@ DOMAIN-SUFFIX,udtrucksmeena.com
 
 # Bank & Finance
 #include:category-finance
-# DONOT include:category-bank-cn
+# DO NOT include:category-bank-cn
 #include:category-bank-ir
 # Iranian bank websites
 
@@ -8752,7 +8752,7 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -13089,7 +13089,7 @@ DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbimgs.com
 DOMAIN-SUFFIX,jdbstatic.com
 
-DOMAIN-WILDCARD,javdb*.com
+DOMAIN-WILDCARD,*javdb*.com
 #end include:javdb
 #include:javwide
 DOMAIN-SUFFIX,javwide.com
@@ -19674,7 +19674,7 @@ DOMAIN-WILDCARD,*zztt??.com
 DOMAIN-WILDCARD,*zzz??.top
 #end include:category-porn
 
-# Services & Softwares
+# Services & Software
 #include:category-android-app-download
 #include:apkcombo
 DOMAIN-SUFFIX,apkcombo.com
@@ -24754,7 +24754,7 @@ DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes.apple.com
 
 # Domains with access point in China mainland
-# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains do not resolve to a cn IP address
 # See #2228 and #2259
 DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
@@ -31273,7 +31273,7 @@ DOMAIN-SUFFIX,verisign.vn
 DOMAIN-SUFFIX,verisigninc.com
 #end include:verisign
 #include:verizon
-# Note: the @verizon.net email domain is still running by Yahoo
+# Note: the @verizon.net email domain is still run by Yahoo
 DOMAIN-SUFFIX,oath.cloud
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,ouroath.com
