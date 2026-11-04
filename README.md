@@ -1118,6 +1118,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | primevideo | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/primevideo |
 | private | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/private |
 | progress | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/progress |
+| projectmoon | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/projectmoon |
 | projectpoi | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/projectpoi |
 | projectsekai | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/projectsekai |
 | proquest | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/proquest |
