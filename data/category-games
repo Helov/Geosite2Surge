@@ -166,7 +166,7 @@ DOMAIN-SUFFIX,cbjq.com
 # Testplus
 DOMAIN-SUFFIX,testplus.cn
 #end include:seasun
-#include:tencent-games
+#include:tencent-games @-!cn
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
 DOMAIN-SUFFIX,gameloop.com
@@ -185,7 +185,6 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
@@ -217,28 +216,17 @@ DOMAIN-SUFFIX,yxwsgame.com
 DOMAIN-SUFFIX,yzyxgame.com
 DOMAIN-SUFFIX,zcjbgame.com
 DOMAIN-SUFFIX,zhuoyuegame.com
-
 DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn    #碧蓝幻想.cn
-
-# Roblox
 DOMAIN-SUFFIX,roblox.cn
 DOMAIN-SUFFIX,roblox.qq.com
 DOMAIN-SUFFIX,robloxdev.cn
-
-# NExT Studios
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
-
-# 迷失之地
 DOMAIN-SUFFIX,mszdld.cn
 DOMAIN-SUFFIX,mszdld.com
 DOMAIN-SUFFIX,mszdld.net
-
-# 篝火营地
 DOMAIN-SUFFIX,gamebonfire.com
 DOMAIN-SUFFIX,gouhuo.qq.com
-
-# WeGame
 DOMAIN-SUFFIX,ffbuddy.com
 DOMAIN-SUFFIX,gotolink.net
 DOMAIN-SUFFIX,gtgres.com
@@ -247,8 +235,6 @@ DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,werepository.com.cn
-
-# Supercell cn (data/supercell is for non-cn domains)
 DOMAIN-SUFFIX,brawlstars.cn
 DOMAIN-SUFFIX,haydaypop.cn
 DOMAIN-SUFFIX,labycore.cn
@@ -259,18 +245,10 @@ DOMAIN-SUFFIX,scid.cn
 DOMAIN-SUFFIX,scsentry.cn
 DOMAIN-SUFFIX,supercellcommunity.cn
 DOMAIN-SUFFIX,supercellsupport.cn
-
-# 使命召唤
 DOMAIN-SUFFIX,codm.com
-
-# 穿越火线
 DOMAIN-SUFFIX,bcfmglobal.com
 DOMAIN-SUFFIX,tcfmglobal.com
-
-# 腾讯游戏安全专家
 DOMAIN-SUFFIX,anticheatexpert.com
-
-# 洛克王国
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
 #end include:tencent-games

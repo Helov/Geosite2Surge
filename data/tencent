@@ -514,7 +514,6 @@ DOMAIN-SUFFIX,hdyxgame.com
 DOMAIN-SUFFIX,hkgcloudcs.com
 DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,ludosuperstar.cn
 DOMAIN-SUFFIX,ludoworld.net
 DOMAIN-SUFFIX,mahjongai.net
@@ -602,6 +601,11 @@ DOMAIN-SUFFIX,anticheatexpert.com
 # 洛克王国
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
+
+# Overseas business
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
 #end include:tencent-games
 #include:tencent-tme
 # 腾讯音乐娱乐集团/TME
