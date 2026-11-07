@@ -84,6 +84,7 @@ DOMAIN-SUFFIX,githubcopilot.com
 
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -21161,6 +21162,7 @@ DOMAIN-SUFFIX,githubcopilot.com
 
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -29549,6 +29551,7 @@ DOMAIN-SUFFIX,githubcopilot.com
 
 DOMAIN,copilot-proxy.githubusercontent.com
 DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,production-copilot-host-westus.webpubsub.azure.com
 
 # Azure Blob Storage
 DOMAIN,copilotprodattachments.blob.core.windows.net
