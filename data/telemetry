@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,regionconfig.amplitude.com
 DOMAIN-SUFFIX,regionconfig.eu.amplitude.com
 DOMAIN-SUFFIX,sr-client-cfg.amplitude.com
 DOMAIN-SUFFIX,sr-client-cfg.eu.amplitude.com
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io
 DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN,dc.applicationinsights.azure.com
