@@ -650,6 +650,7 @@ RULE-SET,https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/d
 | googlefcm | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/googlefcm |
 | goproxy | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/goproxy |
 | gracg | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/gracg |
+| grafanalabs | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/grafanalabs |
 | grapheneos | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/grapheneos |
 | gravatar | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/gravatar |
 | greatfire | https://raw.githubusercontent.com/Helov/Geosite2Surge/refs/heads/main/data/greatfire |

@@ -425,6 +425,10 @@ DOMAIN-SUFFIX,golang.com
 DOMAIN-SUFFIX,golang.net
 DOMAIN-SUFFIX,golang.org
 #end include:golang
+#include:grafanalabs
+DOMAIN-SUFFIX,grafana.com
+DOMAIN-SUFFIX,grafana.net
+#end include:grafanalabs
 #include:hashicorp
 DOMAIN-SUFFIX,consul.io
 DOMAIN-SUFFIX,hashicorp.com
