@@ -68,6 +68,7 @@ DOMAIN-SUFFIX,cursorvm.com
 #include:elevenlabs
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
+DOMAIN-SUFFIX,elevenlabsusercontent.com
 #end include:elevenlabs
 #include:envato
 DOMAIN-SUFFIX,envato-static.com
