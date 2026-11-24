@@ -169,6 +169,9 @@ DOMAIN-SUFFIX,antigravity-unleash.goog
 
 # Stitch
 DOMAIN-SUFFIX,stitch.withgoogle.com
+
+# Gemma
+DOMAIN-SUFFIX,gemma.ai
 #end include:google-deepmind
 #include:groq
 DOMAIN-SUFFIX,groq.com
@@ -22389,6 +22392,9 @@ DOMAIN-SUFFIX,antigravity-unleash.goog
 
 # Stitch
 DOMAIN-SUFFIX,stitch.withgoogle.com
+
+# Gemma
+DOMAIN-SUFFIX,gemma.ai
 #end include:google-deepmind
 #include:google-play
 DOMAIN-SUFFIX,googleplay.com
