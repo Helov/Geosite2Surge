@@ -794,8 +794,9 @@ DOMAIN-SUFFIX,eft-store.com
 DOMAIN-SUFFIX,escapefromtarkov.com
 #end include:escapefromtarkov
 #include:faceit
-DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,fce.gg
 #end include:faceit
 #include:gaijin
 DOMAIN-SUFFIX,acesofthunder.net
